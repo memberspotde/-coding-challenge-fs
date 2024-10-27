@@ -1,0 +1,45 @@
+[2m> [22mwebpack-cli build --node-env=production
+
+chunk (runtime: main) [1m[32mmain.js[39m[22m (main) 4.75 KiB [1m[33m[entry][39m[22m [1m[32m[rendered][39m[22m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m3:2[22m[39m[1m[39m[22m
+[90mTS2304: [39mCannot find name 'Injectable'.
+  [0m [90m 1 |[39m [36mimport[39m axios [36mfrom[39m [32m'axios'[39m[33m;[39m
+   [90m 2 |[39m
+  [31m[1m>[22m[39m[90m 3 |[39m [33m@[39m[33mInjectable[39m()
+   [90m   |[39m  [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 4 |[39m [36mexport[39m [36mclass[39m [33mAppService[39m {
+   [90m 5 |[39m   [36masync[39m getPeople(page[33m:[39m number [33m=[39m [35m1[39m)[33m:[39m [33mPromise[39m[33m<[39m[33many[39m[][33m>[39m {
+   [90m 6 |[39m     [36mtry[39m {[0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m21:21[22m[39m[1m[39m[22m
+[90mTS2304: [39mCannot find name 'NotFoundException'.
+  [0m [90m 19 |[39m         [90m// Validación y obtención del homeworld[39m
+   [90m 20 |[39m         [36mif[39m ([33m![39m[36mthis[39m[33m.[39misValidUrl(personDetails[33m.[39mhomeworld)) {
+  [31m[1m>[22m[39m[90m 21 |[39m           [36mthrow[39m [36mnew[39m [33mNotFoundException[39m([32m`Invalid homeworld URL for person: ${personDetails.name}`[39m)[33m;[39m
+   [90m    |[39m                     [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 22 |[39m         }
+   [90m 23 |[39m
+   [90m 24 |[39m         [36mconst[39m homeworldResponse [33m=[39m [36mawait[39m axios[33m.[39m[36mget[39m(personDetails[33m.[39mhomeworld)[33m;[39m[0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m28:30[22m[39m[1m[39m[22m
+[90mTS2304: [39mCannot find name 'PersonSchema'.
+  [0m [90m 26 |[39m
+   [90m 27 |[39m         [90m// Usamos el esquema de Zod para parsear y validar la respuesta[39m
+  [31m[1m>[22m[39m[90m 28 |[39m         [36mconst[39m parsedPerson [33m=[39m [33mPersonSchema[39m[33m.[39mparse({
+   [90m    |[39m                              [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 29 |[39m           name[33m:[39m personDetails[33m.[39mname[33m,[39m
+   [90m 30 |[39m           birth_year[33m:[39m personDetails[33m.[39mbirth_year[33m,[39m
+   [90m 31 |[39m           homeworld[33m:[39m homeworld[33m.[39mname[33m,[39m[0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m41:17[22m[39m[1m[39m[22m
+[90mTS2304: [39mCannot find name 'InternalServerErrorException'.
+  [0m [90m 39 |[39m     } [36mcatch[39m (error) {
+   [90m 40 |[39m       console[33m.[39merror([32m'Error fetching people:'[39m[33m,[39m error)[33m;[39m
+  [31m[1m>[22m[39m[90m 41 |[39m       [36mthrow[39m [36mnew[39m [33mInternalServerErrorException[39m(
+   [90m    |[39m                 [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 42 |[39m         error[33m.[39mresponse
+   [90m 43 |[39m           [33m?[39m [32m`Error fetching data from SWAPI: ${error.response.status} - ${error.response.statusText}`[39m
+   [90m 44 |[39m           [33m:[39m [32m'Error fetching people due to a network issue or unexpected response'[39m[0m
+
+webpack compiled with [1m[31m4 errors[39m[22m (0a181ef9b7d72f58)

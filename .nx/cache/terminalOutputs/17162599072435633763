@@ -1,0 +1,15 @@
+[2m> [22mwebpack-cli build --node-env=production
+
+chunk (runtime: main) [1m[32mmain.js[39m[22m (main) 5.03 KiB [1m[33m[entry][39m[22m [1m[32m[rendered][39m[22m
+
+[1m[31mERROR[39m[22m in [1m./src/main.ts:[32m[1m13:55[22m[39m[1m[39m[22m
+[90mTS2304: [39mCannot find name 'port'.
+  [0m [90m 11 |[39m   [36mawait[39m app[33m.[39mlisten([35m3000[39m)[33m;[39m
+   [90m 12 |[39m   [33mLogger[39m[33m.[39mlog(
+  [31m[1m>[22m[39m[90m 13 |[39m     [32m`🚀 Application is running on: http://localhost:${port}/${globalPrefix}`[39m
+   [90m    |[39m                                                       [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 14 |[39m   )[33m;[39m
+   [90m 15 |[39m }
+   [90m 16 |[39m[0m
+
+webpack compiled with [1m[31m1 error[39m[22m (49eb2ba6ce538e92)

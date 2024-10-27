@@ -1,0 +1,32 @@
+{
+  "run": {
+    "command": "nx run server:build:development",
+    "startTime": "2024-10-26T20:32:33.821Z",
+    "endTime": "2024-10-26T20:32:41.838Z",
+    "inner": false
+  },
+  "tasks": [
+    {
+      "taskId": "shared-models:build",
+      "target": "build",
+      "projectName": "shared-models",
+      "hash": "13171529785312017727",
+      "startTime": "2024-10-26T20:32:33.839Z",
+      "endTime": "2024-10-26T20:32:33.927Z",
+      "params": "",
+      "cacheStatus": "local-cache-hit",
+      "status": 0
+    },
+    {
+      "taskId": "server:build",
+      "target": "build",
+      "projectName": "server",
+      "hash": "17614736199050416061",
+      "startTime": "2024-10-26T20:32:33.941Z",
+      "endTime": "2024-10-26T20:32:41.838Z",
+      "params": "",
+      "cacheStatus": "cache-miss",
+      "status": 0
+    }
+  ]
+}

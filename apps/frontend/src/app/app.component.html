@@ -1,0 +1,23 @@
+<div class="container mx-auto p-4">
+    <!-- Input field for filtering the list based on user input -->
+    <input type="text" placeholder="Filter..." (input)="filter($event)"
+        class="mb-4 p-2 border border-gray-300 rounded w-full" />
+
+    <!-- Display list of people with name, birth year, and homeworld details -->
+    <ul>
+        <li *ngFor="let person of filteredPeople">
+            {{ person.name }} - {{ person.birth_year }} - {{ person.homeworld }} ({{ person.homeworld_terrain }})
+        </li>
+    </ul>
+
+    <!-- Pagination controls for navigating between pages -->
+    <div class="flex justify-left space-x-4 mt-4">
+        <button (click)="prevPage()" [disabled]="page === 1"
+            class="bg-blue-500 text-white p-2 rounded disabled:opacity-50">
+            Previous
+        </button>
+        <button (click)="nextPage()" class="bg-blue-500 text-white p-2 rounded">
+            Next
+        </button>
+    </div>
+</div>

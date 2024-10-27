@@ -1,0 +1,15 @@
+[2m> [22mwebpack-cli build --node-env=production
+
+chunk (runtime: main) [1m[32mmain.js[39m[22m (main) 5.31 KiB [1m[33m[entry][39m[22m [1m[32m[rendered][39m[22m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.controller.ts:[32m[1m10:28[22m[39m[1m[39m[22m
+[90mTS2554: [39mExpected 2 arguments, but got 1.
+  [0m [90m  8 |[39m   [33m@[39m[33mGet[39m()
+   [90m  9 |[39m   getPeople([33m@[39m[33mQuery[39m() page[33m:[39m number [33m=[39m [35m1[39m) {
+  [31m[1m>[22m[39m[90m 10 |[39m     [36mreturn[39m [36mthis[39m[33m.[39mappService[33m.[39mgetPeople(page)[33m;[39m
+   [90m    |[39m                            [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 11 |[39m   }
+   [90m 12 |[39m }
+   [90m 13 |[39m[0m
+
+webpack compiled with [1m[31m1 error[39m[22m (3bc53639ed215cce)

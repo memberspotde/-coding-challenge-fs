@@ -1,0 +1,15 @@
+[2m> [22mwebpack-cli build --node-env=production
+
+chunk (runtime: main) [1m[32mmain.js[39m[22m (main) 5.4 KiB [1m[33m[entry][39m[22m [1m[32m[rendered][39m[22m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m9:48[22m[39m[1m[39m[22m
+[90mTS2339: [39mProperty 'BASE_URL' does not exist on type 'AppService'.
+  [0m [90m  7 |[39m   [36masync[39m getPeople(page[33m:[39m number[33m,[39m filter[33m:[39m string)[33m:[39m [33mPromise[39m[33m<[39m[33many[39m[][33m>[39m {
+   [90m  8 |[39m     [36mtry[39m {
+  [31m[1m>[22m[39m[90m  9 |[39m       [36mconst[39m response [33m=[39m [36mawait[39m axios[33m.[39m[36mget[39m([32m`${this.BASE_URL}?page=${page}`[39m)[33m;[39m
+   [90m    |[39m                                                [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 10 |[39m       [36mconst[39m people [33m=[39m response[33m.[39mdata[33m.[39mresults[33m;[39m
+   [90m 11 |[39m
+   [90m 12 |[39m       [36mconst[39m peopleWithHomeworld [33m=[39m [36mawait[39m [33mPromise[39m[33m.[39mall([0m
+
+webpack compiled with [1m[31m1 error[39m[22m (758858287d9b1955)

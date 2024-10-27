@@ -1,0 +1,376 @@
+[2m> [22mwebpack-cli build --node-env=production
+
+chunk (runtime: main) [1m[32mmain.js[39m[22m (main) 5.22 KiB [1m[33m[entry][39m[22m [1m[32m[rendered][39m[22m
+
+[1m[31mERROR[39m[22m in [1mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts[39m[22m
+[1m./src/app/app.service.ts[39m[22m [1m[32m8:4-9[39m[22m
+[90m[tsl] [39m[1m[31mERROR[39m[22m[1m[31m in [39m[22m[1m[36mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts(8,5)[39m[22m
+[1m[31m      TS1434: Unexpected keyword or identifier.[39m[22m
+
+[1m[31mERROR[39m[22m in [1mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts[39m[22m
+[1m./src/app/app.service.ts[39m[22m [1m[32m8:24-25[39m[22m
+[90m[tsl] [39m[1m[31mERROR[39m[22m[1m[31m in [39m[22m[1m[36mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts(8,25)[39m[22m
+[1m[31m      TS1005: ',' expected.[39m[22m
+
+[1m[31mERROR[39m[22m in [1mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts[39m[22m
+[1m./src/app/app.service.ts[39m[22m [1m[32m8:40-41[39m[22m
+[90m[tsl] [39m[1m[31mERROR[39m[22m[1m[31m in [39m[22m[1m[36mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts(8,41)[39m[22m
+[1m[31m      TS1005: ',' expected.[39m[22m
+
+[1m[31mERROR[39m[22m in [1mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts[39m[22m
+[1m./src/app/app.service.ts[39m[22m [1m[32m8:49-50[39m[22m
+[90m[tsl] [39m[1m[31mERROR[39m[22m[1m[31m in [39m[22m[1m[36mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts(8,50)[39m[22m
+[1m[31m      TS1005: ';' expected.[39m[22m
+
+[1m[31mERROR[39m[22m in [1mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts[39m[22m
+[1m./src/app/app.service.ts[39m[22m [1m[32m8:65[39m[22m
+[90m[tsl] [39m[1m[31mERROR[39m[22m[1m[31m in [39m[22m[1m[36mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts(8,66)[39m[22m
+[1m[31m      TS1011: An element access expression should take an argument.[39m[22m
+
+[1m[31mERROR[39m[22m in [1mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts[39m[22m
+[1m./src/app/app.service.ts[39m[22m [1m[32m9:10-11[39m[22m
+[90m[tsl] [39m[1m[31mERROR[39m[22m[1m[31m in [39m[22m[1m[36mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts(9,11)[39m[22m
+[1m[31m      TS1005: ':' expected.[39m[22m
+
+[1m[31mERROR[39m[22m in [1mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts[39m[22m
+[1m./src/app/app.service.ts[39m[22m [1m[32m10:14-22[39m[22m
+[90m[tsl] [39m[1m[31mERROR[39m[22m[1m[31m in [39m[22m[1m[36mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts(10,15)[39m[22m
+[1m[31m      TS1005: ':' expected.[39m[22m
+
+[1m[31mERROR[39m[22m in [1mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts[39m[22m
+[1m./src/app/app.service.ts[39m[22m [1m[32m10:73-74[39m[22m
+[90m[tsl] [39m[1m[31mERROR[39m[22m[1m[31m in [39m[22m[1m[36mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts(10,74)[39m[22m
+[1m[31m      TS1005: ',' expected.[39m[22m
+
+[1m[31mERROR[39m[22m in [1mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts[39m[22m
+[1m./src/app/app.service.ts[39m[22m [1m[32m11:14-20[39m[22m
+[90m[tsl] [39m[1m[31mERROR[39m[22m[1m[31m in [39m[22m[1m[36mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts(11,15)[39m[22m
+[1m[31m      TS1005: ':' expected.[39m[22m
+
+[1m[31mERROR[39m[22m in [1mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts[39m[22m
+[1m./src/app/app.service.ts[39m[22m [1m[32m11:44-45[39m[22m
+[90m[tsl] [39m[1m[31mERROR[39m[22m[1m[31m in [39m[22m[1m[36mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts(11,45)[39m[22m
+[1m[31m      TS1005: ',' expected.[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts[39m[22m [1m[32m12:22[39m[22m
+[1mModule parse [1m[31mfailed[39m[22m[1m: [1m[31mUnexpected[39m[22m[1m token (12:22)
+File was processed with these loaders:
+ * ../../node_modules/ts-loader/index.js
+You may need an additional loader to handle the result of these loaders.
+|         async;
+|         getPeople(page, number, filter, string);
+>         Promise < any[] > {
+|             try: {
+|                 const: response = await axios_1.default.get(`${this.BASE_URL}?page=${page}`),[39m[22m
+
+[1m[31mERROR[39m[22m in [1mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts[39m[22m
+[1m./src/app/app.service.ts[39m[22m [1m[32m13:14-33[39m[22m
+[90m[tsl] [39m[1m[31mERROR[39m[22m[1m[31m in [39m[22m[1m[36mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts(13,15)[39m[22m
+[1m[31m      TS1005: ':' expected.[39m[22m
+
+[1m[31mERROR[39m[22m in [1mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts[39m[22m
+[1m./src/app/app.service.ts[39m[22m [1m[32m32:9-10[39m[22m
+[90m[tsl] [39m[1m[31mERROR[39m[22m[1m[31m in [39m[22m[1m[36mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts(32,10)[39m[22m
+[1m[31m      TS1005: ',' expected.[39m[22m
+
+[1m[31mERROR[39m[22m in [1mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts[39m[22m
+[1m./src/app/app.service.ts[39m[22m [1m[32m35:14-28[39m[22m
+[90m[tsl] [39m[1m[31mERROR[39m[22m[1m[31m in [39m[22m[1m[36mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts(35,15)[39m[22m
+[1m[31m      TS1005: ':' expected.[39m[22m
+
+[1m[31mERROR[39m[22m in [1mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts[39m[22m
+[1m./src/app/app.service.ts[39m[22m [1m[32m37:9-10[39m[22m
+[90m[tsl] [39m[1m[31mERROR[39m[22m[1m[31m in [39m[22m[1m[36mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts(37,10)[39m[22m
+[1m[31m      TS1005: ',' expected.[39m[22m
+
+[1m[31mERROR[39m[22m in [1mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts[39m[22m
+[1m./src/app/app.service.ts[39m[22m [1m[32m39:15-29[39m[22m
+[90m[tsl] [39m[1m[31mERROR[39m[22m[1m[31m in [39m[22m[1m[36mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts(39,16)[39m[22m
+[1m[31m      TS1005: ':' expected.[39m[22m
+
+[1m[31mERROR[39m[22m in [1mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts[39m[22m
+[1m./src/app/app.service.ts[39m[22m [1m[32m39:29-30[39m[22m
+[90m[tsl] [39m[1m[31mERROR[39m[22m[1m[31m in [39m[22m[1m[36mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts(39,30)[39m[22m
+[1m[31m      TS1005: ',' expected.[39m[22m
+
+[1m[31mERROR[39m[22m in [1mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts[39m[22m
+[1m./src/app/app.service.ts[39m[22m [1m[32m40:8-13[39m[22m
+[90m[tsl] [39m[1m[31mERROR[39m[22m[1m[31m in [39m[22m[1m[36mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts(40,9)[39m[22m
+[1m[31m      TS1005: ',' expected.[39m[22m
+
+[1m[31mERROR[39m[22m in [1mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts[39m[22m
+[1m./src/app/app.service.ts[39m[22m [1m[32m50:4-11[39m[22m
+[90m[tsl] [39m[1m[31mERROR[39m[22m[1m[31m in [39m[22m[1m[36mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts(50,5)[39m[22m
+[1m[31m      TS1128: Declaration or statement expected.[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.controller.ts:[32m[1m14:44[22m[39m[1m[39m[22m
+[90mTS2554: [39mExpected 0-1 arguments, but got 2.
+  [0m [90m 12 |[39m     [33m@[39m[33mQuery[39m([32m'filter'[39m) filter[33m:[39m string [33m=[39m [32m''[39m[33m,[39m
+   [90m 13 |[39m   )[33m:[39m [33mPromise[39m[33m<[39m[33mPerson[39m[][33m>[39m {
+  [31m[1m>[22m[39m[90m 14 |[39m     [36mreturn[39m [36mthis[39m[33m.[39mappService[33m.[39mgetPeople(page[33m,[39m filter)[33m;[39m
+   [90m    |[39m                                            [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 15 |[39m   }
+   [90m 16 |[39m }
+   [90m 17 |[39m[0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m7:38[22m[39m[1m[39m[22m
+[90mTS2355: [39mA function whose declared type is neither 'undefined', 'void', nor 'any' must return a value.
+  [0m [90m  5 |[39m [33m@[39m[33mInjectable[39m()
+   [90m  6 |[39m [36mexport[39m [36mclass[39m [33mAppService[39m {
+  [31m[1m>[22m[39m[90m  7 |[39m   [36masync[39m getPeople(page[33m:[39m number [33m=[39m [35m1[39m)[33m:[39m [33mPromise[39m[33m<[39m[33many[39m[][33m>[39m {
+   [90m    |[39m                                      [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m  8 |[39m     [36masync[39m getPeople(page[33m:[39m number[33m,[39m filter[33m:[39m string)[33m:[39m [33mPromise[39m [33m<[39m any[] [33m>[39m {
+   [90m  9 |[39m       [36mtry[39m {
+   [90m 10 |[39m         [36mconst[39m response [33m=[39m [36mawait[39m axios[33m.[39m[36mget[39m([32m`${this.BASE_URL}?page=${page}`[39m)[33m;[39m[0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m8:5[22m[39m[1m[39m[22m
+[90mTS2304: [39mCannot find name 'async'.
+  [0m [90m  6 |[39m [36mexport[39m [36mclass[39m [33mAppService[39m {
+   [90m  7 |[39m   [36masync[39m getPeople(page[33m:[39m number [33m=[39m [35m1[39m)[33m:[39m [33mPromise[39m[33m<[39m[33many[39m[][33m>[39m {
+  [31m[1m>[22m[39m[90m  8 |[39m     [36masync[39m getPeople(page[33m:[39m number[33m,[39m filter[33m:[39m string)[33m:[39m [33mPromise[39m [33m<[39m any[] [33m>[39m {
+   [90m    |[39m     [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m  9 |[39m       [36mtry[39m {
+   [90m 10 |[39m         [36mconst[39m response [33m=[39m [36mawait[39m axios[33m.[39m[36mget[39m([32m`${this.BASE_URL}?page=${page}`[39m)[33m;[39m
+   [90m 11 |[39m         [36mconst[39m people [33m=[39m response[33m.[39mdata[33m.[39mresults[33m;[39m[0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m8:11[22m[39m[1m[39m[22m
+[90mTS2663: [39mCannot find name 'getPeople'. Did you mean the instance member 'this.getPeople'?
+  [0m [90m  6 |[39m [36mexport[39m [36mclass[39m [33mAppService[39m {
+   [90m  7 |[39m   [36masync[39m getPeople(page[33m:[39m number [33m=[39m [35m1[39m)[33m:[39m [33mPromise[39m[33m<[39m[33many[39m[][33m>[39m {
+  [31m[1m>[22m[39m[90m  8 |[39m     [36masync[39m getPeople(page[33m:[39m number[33m,[39m filter[33m:[39m string)[33m:[39m [33mPromise[39m [33m<[39m any[] [33m>[39m {
+   [90m    |[39m           [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m  9 |[39m       [36mtry[39m {
+   [90m 10 |[39m         [36mconst[39m response [33m=[39m [36mawait[39m axios[33m.[39m[36mget[39m([32m`${this.BASE_URL}?page=${page}`[39m)[33m;[39m
+   [90m 11 |[39m         [36mconst[39m people [33m=[39m response[33m.[39mdata[33m.[39mresults[33m;[39m[0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m8:27[22m[39m[1m[39m[22m
+[90mTS2693: [39m'number' only refers to a type, but is being used as a value here.
+  [0m [90m  6 |[39m [36mexport[39m [36mclass[39m [33mAppService[39m {
+   [90m  7 |[39m   [36masync[39m getPeople(page[33m:[39m number [33m=[39m [35m1[39m)[33m:[39m [33mPromise[39m[33m<[39m[33many[39m[][33m>[39m {
+  [31m[1m>[22m[39m[90m  8 |[39m     [36masync[39m getPeople(page[33m:[39m number[33m,[39m filter[33m:[39m string)[33m:[39m [33mPromise[39m [33m<[39m any[] [33m>[39m {
+   [90m    |[39m                           [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m  9 |[39m       [36mtry[39m {
+   [90m 10 |[39m         [36mconst[39m response [33m=[39m [36mawait[39m axios[33m.[39m[36mget[39m([32m`${this.BASE_URL}?page=${page}`[39m)[33m;[39m
+   [90m 11 |[39m         [36mconst[39m people [33m=[39m response[33m.[39mdata[33m.[39mresults[33m;[39m[0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m8:35[22m[39m[1m[39m[22m
+[90mTS2552: [39mCannot find name 'filter'. Did you mean 'File'?
+  [0m [90m  6 |[39m [36mexport[39m [36mclass[39m [33mAppService[39m {
+   [90m  7 |[39m   [36masync[39m getPeople(page[33m:[39m number [33m=[39m [35m1[39m)[33m:[39m [33mPromise[39m[33m<[39m[33many[39m[][33m>[39m {
+  [31m[1m>[22m[39m[90m  8 |[39m     [36masync[39m getPeople(page[33m:[39m number[33m,[39m filter[33m:[39m string)[33m:[39m [33mPromise[39m [33m<[39m any[] [33m>[39m {
+   [90m    |[39m                                   [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m  9 |[39m       [36mtry[39m {
+   [90m 10 |[39m         [36mconst[39m response [33m=[39m [36mawait[39m axios[33m.[39m[36mget[39m([32m`${this.BASE_URL}?page=${page}`[39m)[33m;[39m
+   [90m 11 |[39m         [36mconst[39m people [33m=[39m response[33m.[39mdata[33m.[39mresults[33m;[39m[0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m8:43[22m[39m[1m[39m[22m
+[90mTS2693: [39m'string' only refers to a type, but is being used as a value here.
+  [0m [90m  6 |[39m [36mexport[39m [36mclass[39m [33mAppService[39m {
+   [90m  7 |[39m   [36masync[39m getPeople(page[33m:[39m number [33m=[39m [35m1[39m)[33m:[39m [33mPromise[39m[33m<[39m[33many[39m[][33m>[39m {
+  [31m[1m>[22m[39m[90m  8 |[39m     [36masync[39m getPeople(page[33m:[39m number[33m,[39m filter[33m:[39m string)[33m:[39m [33mPromise[39m [33m<[39m any[] [33m>[39m {
+   [90m    |[39m                                           [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m  9 |[39m       [36mtry[39m {
+   [90m 10 |[39m         [36mconst[39m response [33m=[39m [36mawait[39m axios[33m.[39m[36mget[39m([32m`${this.BASE_URL}?page=${page}`[39m)[33m;[39m
+   [90m 11 |[39m         [36mconst[39m people [33m=[39m response[33m.[39mdata[33m.[39mresults[33m;[39m[0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m8:52[22m[39m[1m[39m[22m
+[90mTS2365: [39mOperator '>' cannot be applied to types 'boolean' and '{ try: { const: any; return: any; }; catch(error: any): never; }'.
+  [0m [90m  6 |[39m [36mexport[39m [36mclass[39m [33mAppService[39m {
+   [90m  7 |[39m   [36masync[39m getPeople(page[33m:[39m number [33m=[39m [35m1[39m)[33m:[39m [33mPromise[39m[33m<[39m[33many[39m[][33m>[39m {
+  [31m[1m>[22m[39m[90m  8 |[39m     [36masync[39m getPeople(page[33m:[39m number[33m,[39m filter[33m:[39m string)[33m:[39m [33mPromise[39m [33m<[39m any[] [33m>[39m {
+   [90m    |[39m                                                    [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+  [31m[1m>[22m[39m[90m  9 |[39m       [36mtry[39m {
+   [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+  [31m[1m>[22m[39m[90m 10 |[39m         [36mconst[39m response [33m=[39m [36mawait[39m axios[33m.[39m[36mget[39m([32m`${this.BASE_URL}?page=${page}`[39m)[33m;[39m
+   [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+  [31m[1m>[22m[39m[90m 11 |[39m         [36mconst[39m people [33m=[39m response[33m.[39mdata[33m.[39mresults[33m;[39m
+   [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+  [31m[1m>[22m[39m[90m 12 |[39m
+   [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+  [31m[1m>[22m[39m[90m 13 |[39m         [36mconst[39m peopleWithHomeworld [33m=[39m [36mawait[39m [33mPromise[39m[33m.[39mall(
+   [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+  [31m[1m>[22m[39m[90m 14 |[39m           people[33m.[39mmap([36masync[39m (person) [33m=>[39m {
+   [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+  [31m[1m>[22m[39m[90m 15 |[39m             [36mconst[39m personDetailResponse [33m=[39m [36mawait[39m axios[33m.[39m[36mget[39m(person[33m.[39murl)[33m;[39m
+   [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+  [31m[1m>[22m[39m[90m 16 |[39m             [36mconst[39m personDetails [33m=[39m personDetailResponse[33m.[39mdata[33m.[39mresult[33m.[39mproperties[33m;[39m
+   [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+  [31m[1m>[22m[39m[90m 17 |[39m
+   [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+  [31m[1m>[22m[39m[90m 18 |[39m             [36mif[39m ([33m![39m[36mthis[39m[33m.[39misValidUrl(personDetails[33m.[39mhomeworld)) {
+   [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+  [31m[1m>[22m[39m[90m 19 |[39m               [36mthrow[39m [36mnew[39m [33mNotFoundException[39m([32m`Invalid homeworld URL for person: ${personDetails.name}`[39m)[33m;[39m
+   [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+  [31m[1m>[22m[39m[90m 20 |[39m             }
+   [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+  [31m[1m>[22m[39m[90m 21 |[39m
+   [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+  [31m[1m>[22m[39m[90m 22 |[39m             [36mconst[39m homeworldResponse [33m=[39m [36mawait[39m axios[33m.[39m[36mget[39m(personDetails[33m.[39mhomeworld)[33m;[39m
+   [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+  [31m[1m>[22m[39m[90m 23 |[39m             [36mconst[39m homeworld [33m=[39m homeworldResponse[33m.[39mdata[33m.[39mresult[33m.[39mproperties[33m;[39m
+   [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+  [31m[1m>[22m[39m[90m 24 |[39m
+   [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+  [31m[1m>[22m[39m[90m 25 |[39m             [36mreturn[39m [33mPersonSchema[39m[33m.[39mparse({
+   [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+  [31m[1m>[22m[39m[90m 26 |[39m               name[33m:[39m personDetails[33m.[39mname[33m,[39m
+   [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+  [31m[1m>[22m[39m[90m 27 |[39m               birth_year[33m:[39m personDetails[33m.[39mbirth_year[33m,[39m
+   [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+  [31m[1m>[22m[39m[90m 28 |[39m               homeworld[33m:[39m homeworld[33m.[39mname[33m,[39m
+   [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+  [31m[1m>[22m[39m[90m 29 |[39m               homeworld_terrain[33m:[39m homeworld[33m.[39mterrain[33m,[39m
+   [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+  [31m[1m>[22m[39m[90m 30 |[39m             })[33m;[39m
+   [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+  [31m[1m>[22m[39m[90m 31 |[39m           })[33m,[39m
+   [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+  [31m[1m>[22m[39m[90m 32 |[39m         )[33m;[39m
+   [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+  [31m[1m>[22m[39m[90m 33 |[39m
+   [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+  [31m[1m>[22m[39m[90m 34 |[39m         [90m// Filtering based on the provided query[39m
+   [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+  [31m[1m>[22m[39m[90m 35 |[39m         [36mconst[39m filteredPeople [33m=[39m peopleWithHomeworld[33m.[39mfilter(person [33m=>[39m
+   [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+  [31m[1m>[22m[39m[90m 36 |[39m           person[33m.[39mname[33m.[39mtoLowerCase()[33m.[39mincludes(filter[33m.[39mtoLowerCase())[33m,[39m
+   [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+  [31m[1m>[22m[39m[90m 37 |[39m         )[33m;[39m
+   [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+  [31m[1m>[22m[39m[90m 38 |[39m
+   [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+  [31m[1m>[22m[39m[90m 39 |[39m         [36mreturn[39m filteredPeople[33m;[39m
+   [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+  [31m[1m>[22m[39m[90m 40 |[39m       } [36mcatch[39m(error) {
+   [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+  [31m[1m>[22m[39m[90m 41 |[39m         console[33m.[39merror([32m'Error fetching people:'[39m[33m,[39m error)[33m;[39m
+   [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+  [31m[1m>[22m[39m[90m 42 |[39m         [36mif[39m (error[33m.[39mresponse) {
+   [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+  [31m[1m>[22m[39m[90m 43 |[39m           [36mthrow[39m [36mnew[39m [33mInternalServerErrorException[39m([32m`Error fetching data from SWAPI: ${error.response.status} - ${error.response.statusText}`[39m)[33m;[39m
+   [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+  [31m[1m>[22m[39m[90m 44 |[39m         } [36melse[39m {
+   [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+  [31m[1m>[22m[39m[90m 45 |[39m           [36mthrow[39m [36mnew[39m [33mInternalServerErrorException[39m([32m'Error fetching people due to a network issue or unexpected response'[39m)[33m;[39m
+   [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+  [31m[1m>[22m[39m[90m 46 |[39m         }
+   [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+  [31m[1m>[22m[39m[90m 47 |[39m       }
+   [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+  [31m[1m>[22m[39m[90m 48 |[39m     }
+   [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 49 |[39m   
+   [90m 50 |[39m     [36mprivate[39m isValidUrl(url[33m:[39m string)[33m:[39m boolean {
+   [90m 51 |[39m     [36mtry[39m {[0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m8:62[22m[39m[1m[39m[22m
+[90mTS2693: [39m'any' only refers to a type, but is being used as a value here.
+  [0m [90m  6 |[39m [36mexport[39m [36mclass[39m [33mAppService[39m {
+   [90m  7 |[39m   [36masync[39m getPeople(page[33m:[39m number [33m=[39m [35m1[39m)[33m:[39m [33mPromise[39m[33m<[39m[33many[39m[][33m>[39m {
+  [31m[1m>[22m[39m[90m  8 |[39m     [36masync[39m getPeople(page[33m:[39m number[33m,[39m filter[33m:[39m string)[33m:[39m [33mPromise[39m [33m<[39m any[] [33m>[39m {
+   [90m    |[39m                                                              [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m  9 |[39m       [36mtry[39m {
+   [90m 10 |[39m         [36mconst[39m response [33m=[39m [36mawait[39m axios[33m.[39m[36mget[39m([32m`${this.BASE_URL}?page=${page}`[39m)[33m;[39m
+   [90m 11 |[39m         [36mconst[39m people [33m=[39m response[33m.[39mdata[33m.[39mresults[33m;[39m[0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m10:15[22m[39m[1m[39m[22m
+[90mTS2552: [39mCannot find name 'response'. Did you mean 'Response'?
+  [0m [90m  8 |[39m     [36masync[39m getPeople(page[33m:[39m number[33m,[39m filter[33m:[39m string)[33m:[39m [33mPromise[39m [33m<[39m any[] [33m>[39m {
+   [90m  9 |[39m       [36mtry[39m {
+  [31m[1m>[22m[39m[90m 10 |[39m         [36mconst[39m response [33m=[39m [36mawait[39m axios[33m.[39m[36mget[39m([32m`${this.BASE_URL}?page=${page}`[39m)[33m;[39m
+   [90m    |[39m               [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 11 |[39m         [36mconst[39m people [33m=[39m response[33m.[39mdata[33m.[39mresults[33m;[39m
+   [90m 12 |[39m
+   [90m 13 |[39m         [36mconst[39m peopleWithHomeworld [33m=[39m [36mawait[39m [33mPromise[39m[33m.[39mall([0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m10:50[22m[39m[1m[39m[22m
+[90mTS2339: [39mProperty 'BASE_URL' does not exist on type 'AppService'.
+  [0m [90m  8 |[39m     [36masync[39m getPeople(page[33m:[39m number[33m,[39m filter[33m:[39m string)[33m:[39m [33mPromise[39m [33m<[39m any[] [33m>[39m {
+   [90m  9 |[39m       [36mtry[39m {
+  [31m[1m>[22m[39m[90m 10 |[39m         [36mconst[39m response [33m=[39m [36mawait[39m axios[33m.[39m[36mget[39m([32m`${this.BASE_URL}?page=${page}`[39m)[33m;[39m
+   [90m    |[39m                                                  [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 11 |[39m         [36mconst[39m people [33m=[39m response[33m.[39mdata[33m.[39mresults[33m;[39m
+   [90m 12 |[39m
+   [90m 13 |[39m         [36mconst[39m peopleWithHomeworld [33m=[39m [36mawait[39m [33mPromise[39m[33m.[39mall([0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m11:15[22m[39m[1m[39m[22m
+[90mTS2304: [39mCannot find name 'people'.
+  [0m [90m  9 |[39m       [36mtry[39m {
+   [90m 10 |[39m         [36mconst[39m response [33m=[39m [36mawait[39m axios[33m.[39m[36mget[39m([32m`${this.BASE_URL}?page=${page}`[39m)[33m;[39m
+  [31m[1m>[22m[39m[90m 11 |[39m         [36mconst[39m people [33m=[39m response[33m.[39mdata[33m.[39mresults[33m;[39m
+   [90m    |[39m               [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 12 |[39m
+   [90m 13 |[39m         [36mconst[39m peopleWithHomeworld [33m=[39m [36mawait[39m [33mPromise[39m[33m.[39mall(
+   [90m 14 |[39m           people[33m.[39mmap([36masync[39m (person) [33m=>[39m {[0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m11:24[22m[39m[1m[39m[22m
+[90mTS2552: [39mCannot find name 'response'. Did you mean 'Response'?
+  [0m [90m  9 |[39m       [36mtry[39m {
+   [90m 10 |[39m         [36mconst[39m response [33m=[39m [36mawait[39m axios[33m.[39m[36mget[39m([32m`${this.BASE_URL}?page=${page}`[39m)[33m;[39m
+  [31m[1m>[22m[39m[90m 11 |[39m         [36mconst[39m people [33m=[39m response[33m.[39mdata[33m.[39mresults[33m;[39m
+   [90m    |[39m                        [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 12 |[39m
+   [90m 13 |[39m         [36mconst[39m peopleWithHomeworld [33m=[39m [36mawait[39m [33mPromise[39m[33m.[39mall(
+   [90m 14 |[39m           people[33m.[39mmap([36masync[39m (person) [33m=>[39m {[0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m13:15[22m[39m[1m[39m[22m
+[90mTS2304: [39mCannot find name 'peopleWithHomeworld'.
+  [0m [90m 11 |[39m         [36mconst[39m people [33m=[39m response[33m.[39mdata[33m.[39mresults[33m;[39m
+   [90m 12 |[39m
+  [31m[1m>[22m[39m[90m 13 |[39m         [36mconst[39m peopleWithHomeworld [33m=[39m [36mawait[39m [33mPromise[39m[33m.[39mall(
+   [90m    |[39m               [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 14 |[39m           people[33m.[39mmap([36masync[39m (person) [33m=>[39m {
+   [90m 15 |[39m             [36mconst[39m personDetailResponse [33m=[39m [36mawait[39m axios[33m.[39m[36mget[39m(person[33m.[39murl)[33m;[39m
+   [90m 16 |[39m             [36mconst[39m personDetails [33m=[39m personDetailResponse[33m.[39mdata[33m.[39mresult[33m.[39mproperties[33m;[39m[0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m14:11[22m[39m[1m[39m[22m
+[90mTS2304: [39mCannot find name 'people'.
+  [0m [90m 12 |[39m
+   [90m 13 |[39m         [36mconst[39m peopleWithHomeworld [33m=[39m [36mawait[39m [33mPromise[39m[33m.[39mall(
+  [31m[1m>[22m[39m[90m 14 |[39m           people[33m.[39mmap([36masync[39m (person) [33m=>[39m {
+   [90m    |[39m           [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 15 |[39m             [36mconst[39m personDetailResponse [33m=[39m [36mawait[39m axios[33m.[39m[36mget[39m(person[33m.[39murl)[33m;[39m
+   [90m 16 |[39m             [36mconst[39m personDetails [33m=[39m personDetailResponse[33m.[39mdata[33m.[39mresult[33m.[39mproperties[33m;[39m
+   [90m 17 |[39m[0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m35:15[22m[39m[1m[39m[22m
+[90mTS2304: [39mCannot find name 'filteredPeople'.
+  [0m [90m 33 |[39m
+   [90m 34 |[39m         [90m// Filtering based on the provided query[39m
+  [31m[1m>[22m[39m[90m 35 |[39m         [36mconst[39m filteredPeople [33m=[39m peopleWithHomeworld[33m.[39mfilter(person [33m=>[39m
+   [90m    |[39m               [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 36 |[39m           person[33m.[39mname[33m.[39mtoLowerCase()[33m.[39mincludes(filter[33m.[39mtoLowerCase())[33m,[39m
+   [90m 37 |[39m         )[33m;[39m
+   [90m 38 |[39m[0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m35:32[22m[39m[1m[39m[22m
+[90mTS2304: [39mCannot find name 'peopleWithHomeworld'.
+  [0m [90m 33 |[39m
+   [90m 34 |[39m         [90m// Filtering based on the provided query[39m
+  [31m[1m>[22m[39m[90m 35 |[39m         [36mconst[39m filteredPeople [33m=[39m peopleWithHomeworld[33m.[39mfilter(person [33m=>[39m
+   [90m    |[39m                                [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 36 |[39m           person[33m.[39mname[33m.[39mtoLowerCase()[33m.[39mincludes(filter[33m.[39mtoLowerCase())[33m,[39m
+   [90m 37 |[39m         )[33m;[39m
+   [90m 38 |[39m[0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m36:46[22m[39m[1m[39m[22m
+[90mTS2304: [39mCannot find name 'filter'.
+  [0m [90m 34 |[39m         [90m// Filtering based on the provided query[39m
+   [90m 35 |[39m         [36mconst[39m filteredPeople [33m=[39m peopleWithHomeworld[33m.[39mfilter(person [33m=>[39m
+  [31m[1m>[22m[39m[90m 36 |[39m           person[33m.[39mname[33m.[39mtoLowerCase()[33m.[39mincludes(filter[33m.[39mtoLowerCase())[33m,[39m
+   [90m    |[39m                                              [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 37 |[39m         )[33m;[39m
+   [90m 38 |[39m
+   [90m 39 |[39m         [36mreturn[39m filteredPeople[33m;[39m[0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m39:16[22m[39m[1m[39m[22m
+[90mTS2304: [39mCannot find name 'filteredPeople'.
+  [0m [90m 37 |[39m         )[33m;[39m
+   [90m 38 |[39m
+  [31m[1m>[22m[39m[90m 39 |[39m         [36mreturn[39m filteredPeople[33m;[39m
+   [90m    |[39m                [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 40 |[39m       } [36mcatch[39m(error) {
+   [90m 41 |[39m         console[33m.[39merror([32m'Error fetching people:'[39m[33m,[39m error)[33m;[39m
+   [90m 42 |[39m         [36mif[39m (error[33m.[39mresponse) {[0m
+
+webpack compiled with [1m[31m38 errors[39m[22m (39fdd96a14a988c7)

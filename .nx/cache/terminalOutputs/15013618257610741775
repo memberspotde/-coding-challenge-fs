@@ -1,0 +1,704 @@
+[2m> [22mwebpack-cli build --node-env=production
+
+chunk (runtime: main) [1m[32mmain.js[39m[22m (main) 6.08 KiB [1m[33m[entry][39m[22m [1m[32m[rendered][39m[22m
+
+[1m[31mERROR[39m[22m in [1mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts[39m[22m
+[1m./src/app/app.service.ts[39m[22m [1m[32m61:3-11[39m[22m
+[90m[tsl] [39m[1m[31mERROR[39m[22m[1m[31m in [39m[22m[1m[36mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts(61,4)[39m[22m
+[1m[31m      TS1005: ';' expected.[39m[22m
+
+[1m[31mERROR[39m[22m in [1mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts[39m[22m
+[1m./src/app/app.service.ts[39m[22m [1m[32m61:12-17[39m[22m
+[90m[tsl] [39m[1m[31mERROR[39m[22m[1m[31m in [39m[22m[1m[36mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts(61,13)[39m[22m
+[1m[31m      TS1435: Unknown keyword or identifier. Did you mean 'set'?[39m[22m
+
+[1m[31mERROR[39m[22m in [1mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts[39m[22m
+[1m./src/app/app.service.ts[39m[22m [1m[32m61:23-30[39m[22m
+[90m[tsl] [39m[1m[31mERROR[39m[22m[1m[31m in [39m[22m[1m[36mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts(61,24)[39m[22m
+[1m[31m      TS1005: '(' expected.[39m[22m
+
+[1m[31mERROR[39m[22m in [1mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts[39m[22m
+[1m./src/app/app.service.ts[39m[22m [1m[32m62:0-3[39m[22m
+[90m[tsl] [39m[1m[31mERROR[39m[22m[1m[31m in [39m[22m[1m[36mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts(62,1)[39m[22m
+[1m[31m      TS1005: ')' expected.[39m[22m
+
+[1m[31mERROR[39m[22m in [1mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts[39m[22m
+[1m./src/app/app.service.ts[39m[22m [1m[32m62:8-12[39m[22m
+[90m[tsl] [39m[1m[31mERROR[39m[22m[1m[31m in [39m[22m[1m[36mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts(62,9)[39m[22m
+[1m[31m      TS1005: ';' expected.[39m[22m
+
+[1m[31mERROR[39m[22m in [1mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts[39m[22m
+[1m./src/app/app.service.ts[39m[22m [1m[32m62:13-15[39m[22m
+[90m[tsl] [39m[1m[31mERROR[39m[22m[1m[31m in [39m[22m[1m[36mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts(62,14)[39m[22m
+[1m[31m      TS1434: Unexpected keyword or identifier.[39m[22m
+
+[1m[31mERROR[39m[22m in [1mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts[39m[22m
+[1m./src/app/app.service.ts[39m[22m [1m[32m62:16-19[39m[22m
+[90m[tsl] [39m[1m[31mERROR[39m[22m[1m[31m in [39m[22m[1m[36mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts(62,17)[39m[22m
+[1m[31m      TS1434: Unexpected keyword or identifier.[39m[22m
+
+[1m[31mERROR[39m[22m in [1mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts[39m[22m
+[1m./src/app/app.service.ts[39m[22m [1m[32m62:20-22[39m[22m
+[90m[tsl] [39m[1m[31mERROR[39m[22m[1m[31m in [39m[22m[1m[36mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts(62,21)[39m[22m
+[1m[31m      TS1434: Unexpected keyword or identifier.[39m[22m
+
+[1m[31mERROR[39m[22m in [1mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts[39m[22m
+[1m./src/app/app.service.ts[39m[22m [1m[32m62:23-26[39m[22m
+[90m[tsl] [39m[1m[31mERROR[39m[22m[1m[31m in [39m[22m[1m[36mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts(62,24)[39m[22m
+[1m[31m      TS1434: Unexpected keyword or identifier.[39m[22m
+
+[1m[31mERROR[39m[22m in [1mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts[39m[22m
+[1m./src/app/app.service.ts[39m[22m [1m[32m62:27-34[39m[22m
+[90m[tsl] [39m[1m[31mERROR[39m[22m[1m[31m in [39m[22m[1m[36mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts(62,28)[39m[22m
+[1m[31m      TS1434: Unexpected keyword or identifier.[39m[22m
+
+[1m[31mERROR[39m[22m in [1mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts[39m[22m
+[1m./src/app/app.service.ts[39m[22m [1m[32m62:35-43[39m[22m
+[90m[tsl] [39m[1m[31mERROR[39m[22m[1m[31m in [39m[22m[1m[36mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts(62,36)[39m[22m
+[1m[31m      TS1434: Unexpected keyword or identifier.[39m[22m
+
+[1m[31mERROR[39m[22m in [1mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts[39m[22m
+[1m./src/app/app.service.ts[39m[22m [1m[32m62:62-64[39m[22m
+[90m[tsl] [39m[1m[31mERROR[39m[22m[1m[31m in [39m[22m[1m[36mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts(62,63)[39m[22m
+[1m[31m      TS1005: ';' expected.[39m[22m
+
+[1m[31mERROR[39m[22m in [1mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts[39m[22m
+[1m./src/app/app.service.ts[39m[22m [1m[32m62:65-66[39m[22m
+[90m[tsl] [39m[1m[31mERROR[39m[22m[1m[31m in [39m[22m[1m[36mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts(62,66)[39m[22m
+[1m[31m      TS1434: Unexpected keyword or identifier.[39m[22m
+
+[1m[31mERROR[39m[22m in [1mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts[39m[22m
+[1m./src/app/app.service.ts[39m[22m [1m[32m62:67-73[39m[22m
+[90m[tsl] [39m[1m[31mERROR[39m[22m[1m[31m in [39m[22m[1m[36mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts(62,68)[39m[22m
+[1m[31m      TS1434: Unexpected keyword or identifier.[39m[22m
+
+[1m[31mERROR[39m[22m in [1mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts[39m[22m
+[1m./src/app/app.service.ts[39m[22m [1m[32m62:74-81[39m[22m
+[90m[tsl] [39m[1m[31mERROR[39m[22m[1m[31m in [39m[22m[1m[36mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts(62,75)[39m[22m
+[1m[31m      TS1434: Unexpected keyword or identifier.[39m[22m
+
+[1m[31mERROR[39m[22m in [1mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts[39m[22m
+[1m./src/app/app.service.ts[39m[22m [1m[32m62:82-89[39m[22m
+[90m[tsl] [39m[1m[31mERROR[39m[22m[1m[31m in [39m[22m[1m[36mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts(62,83)[39m[22m
+[1m[31m      TS1434: Unexpected keyword or identifier.[39m[22m
+
+[1m[31mERROR[39m[22m in [1mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts[39m[22m
+[1m./src/app/app.service.ts[39m[22m [1m[32m62:90-93[39m[22m
+[90m[tsl] [39m[1m[31mERROR[39m[22m[1m[31m in [39m[22m[1m[36mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts(62,91)[39m[22m
+[1m[31m      TS1434: Unexpected keyword or identifier.[39m[22m
+
+[1m[31mERROR[39m[22m in [1mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts[39m[22m
+[1m./src/app/app.service.ts[39m[22m [1m[32m62:94-103[39m[22m
+[90m[tsl] [39m[1m[31mERROR[39m[22m[1m[31m in [39m[22m[1m[36mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts(62,95)[39m[22m
+[1m[31m      TS1434: Unexpected keyword or identifier.[39m[22m
+
+[1m[31mERROR[39m[22m in [1mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts[39m[22m
+[1m./src/app/app.service.ts[39m[22m [1m[32m62:104-113[39m[22m
+[90m[tsl] [39m[1m[31mERROR[39m[22m[1m[31m in [39m[22m[1m[36mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts(62,105)[39m[22m
+[1m[31m      TS1434: Unexpected keyword or identifier.[39m[22m
+
+[1m[31mERROR[39m[22m in [1mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts[39m[22m
+[1m./src/app/app.service.ts[39m[22m [1m[32m62:114-116[39m[22m
+[90m[tsl] [39m[1m[31mERROR[39m[22m[1m[31m in [39m[22m[1m[36mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts(62,115)[39m[22m
+[1m[31m      TS1434: Unexpected keyword or identifier.[39m[22m
+
+[1m[31mERROR[39m[22m in [1mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts[39m[22m
+[1m./src/app/app.service.ts[39m[22m [1m[32m62:117-124[39m[22m
+[90m[tsl] [39m[1m[31mERROR[39m[22m[1m[31m in [39m[22m[1m[36mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts(62,118)[39m[22m
+[1m[31m      TS1434: Unexpected keyword or identifier.[39m[22m
+
+[1m[31mERROR[39m[22m in [1mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts[39m[22m
+[1m./src/app/app.service.ts[39m[22m [1m[32m62:125-128[39m[22m
+[90m[tsl] [39m[1m[31mERROR[39m[22m[1m[31m in [39m[22m[1m[36mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts(62,126)[39m[22m
+[1m[31m      TS1434: Unexpected keyword or identifier.[39m[22m
+
+[1m[31mERROR[39m[22m in [1mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts[39m[22m
+[1m./src/app/app.service.ts[39m[22m [1m[32m62:129-136[39m[22m
+[90m[tsl] [39m[1m[31mERROR[39m[22m[1m[31m in [39m[22m[1m[36mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts(62,130)[39m[22m
+[1m[31m      TS1434: Unexpected keyword or identifier.[39m[22m
+
+[1m[31mERROR[39m[22m in [1mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts[39m[22m
+[1m./src/app/app.service.ts[39m[22m [1m[32m62:137-140[39m[22m
+[90m[tsl] [39m[1m[31mERROR[39m[22m[1m[31m in [39m[22m[1m[36mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts(62,138)[39m[22m
+[1m[31m      TS1434: Unexpected keyword or identifier.[39m[22m
+
+[1m[31mERROR[39m[22m in [1mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts[39m[22m
+[1m./src/app/app.service.ts[39m[22m [1m[32m62:141-144[39m[22m
+[90m[tsl] [39m[1m[31mERROR[39m[22m[1m[31m in [39m[22m[1m[36mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts(62,142)[39m[22m
+[1m[31m      TS1434: Unexpected keyword or identifier.[39m[22m
+
+[1m[31mERROR[39m[22m in [1mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts[39m[22m
+[1m./src/app/app.service.ts[39m[22m [1m[32m62:145-154[39m[22m
+[90m[tsl] [39m[1m[31mERROR[39m[22m[1m[31m in [39m[22m[1m[36mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts(62,146)[39m[22m
+[1m[31m      TS1435: Unknown keyword or identifier. Did you mean 'implements'?[39m[22m
+
+[1m[31mERROR[39m[22m in [1mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts[39m[22m
+[1m./src/app/app.service.ts[39m[22m [1m[32m62:155-165[39m[22m
+[90m[tsl] [39m[1m[31mERROR[39m[22m[1m[31m in [39m[22m[1m[36mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts(62,156)[39m[22m
+[1m[31m      TS1434: Unexpected keyword or identifier.[39m[22m
+
+[1m[31mERROR[39m[22m in [1mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts[39m[22m
+[1m./src/app/app.service.ts[39m[22m [1m[32m62:166-169[39m[22m
+[90m[tsl] [39m[1m[31mERROR[39m[22m[1m[31m in [39m[22m[1m[36mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts(62,167)[39m[22m
+[1m[31m      TS1434: Unexpected keyword or identifier.[39m[22m
+
+[1m[31mERROR[39m[22m in [1mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts[39m[22m
+[1m./src/app/app.service.ts[39m[22m [1m[32m62:180[39m[22m
+[90m[tsl] [39m[1m[31mERROR[39m[22m[1m[31m in [39m[22m[1m[36mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts(62,181)[39m[22m
+[1m[31m      TS1003: Identifier expected.[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts[39m[22m [1m[32m63:0[39m[22m
+[1mModule parse [1m[31mfailed[39m[22m[1m: 'with' in strict mode (63:0)
+File was processed with these loaders:
+ * ../../node_modules/ts-loader/index.js
+You may need an additional loader to handle the result of these loaders.
+| Frontend;
+| Setup;
+> with (Angular)
+|     Now, we;
+| need;[39m[22m
+
+[1m[31mERROR[39m[22m in [1mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts[39m[22m
+[1m./src/app/app.service.ts[39m[22m [1m[32m64:0-7[39m[22m
+[90m[tsl] [39m[1m[31mERROR[39m[22m[1m[31m in [39m[22m[1m[36mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts(64,1)[39m[22m
+[1m[31m      TS1434: Unexpected keyword or identifier.[39m[22m
+
+[1m[31mERROR[39m[22m in [1mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts[39m[22m
+[1m./src/app/app.service.ts[39m[22m [1m[32m64:8-15[39m[22m
+[90m[tsl] [39m[1m[31mERROR[39m[22m[1m[31m in [39m[22m[1m[36mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts(64,9)[39m[22m
+[1m[31m      TS1434: Unexpected keyword or identifier.[39m[22m
+
+[1m[31mERROR[39m[22m in [1mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts[39m[22m
+[1m./src/app/app.service.ts[39m[22m [1m[32m64:16-24[39m[22m
+[90m[tsl] [39m[1m[31mERROR[39m[22m[1m[31m in [39m[22m[1m[36mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts(64,17)[39m[22m
+[1m[31m      TS1434: Unexpected keyword or identifier.[39m[22m
+
+[1m[31mERROR[39m[22m in [1mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts[39m[22m
+[1m./src/app/app.service.ts[39m[22m [1m[32m65:25-29[39m[22m
+[90m[tsl] [39m[1m[31mERROR[39m[22m[1m[31m in [39m[22m[1m[36mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts(65,26)[39m[22m
+[1m[31m      TS1005: ',' expected.[39m[22m
+
+[1m[31mERROR[39m[22m in [1mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts[39m[22m
+[1m./src/app/app.service.ts[39m[22m [1m[32m65:30-37[39m[22m
+[90m[tsl] [39m[1m[31mERROR[39m[22m[1m[31m in [39m[22m[1m[36mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts(65,31)[39m[22m
+[1m[31m      TS1005: ',' expected.[39m[22m
+
+[1m[31mERROR[39m[22m in [1mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts[39m[22m
+[1m./src/app/app.service.ts[39m[22m [1m[32m65:45-53[39m[22m
+[90m[tsl] [39m[1m[31mERROR[39m[22m[1m[31m in [39m[22m[1m[36mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts(65,46)[39m[22m
+[1m[31m      TS1005: ',' expected.[39m[22m
+
+[1m[31mERROR[39m[22m in [1mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts[39m[22m
+[1m./src/app/app.service.ts[39m[22m [1m[32m68:0-6[39m[22m
+[90m[tsl] [39m[1m[31mERROR[39m[22m[1m[31m in [39m[22m[1m[36mC:\Users\Admin\Desktop\memberspot-challenge\apps\server\src\app\app.service.ts(68,1)[39m[22m
+[1m[31m      TS1434: Unexpected keyword or identifier.[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m1:10[22m[39m[1m[39m[22m
+[90mTS2300: [39mDuplicate identifier 'Injectable'.
+  [0m[31m[1m>[22m[39m[90m 1 |[39m [36mimport[39m { [33mInjectable[39m[33m,[39m [33mInternalServerErrorException[39m[33m,[39m [33mNotFoundException[39m } [36mfrom[39m [32m'@nestjs/common'[39m[33m;[39m
+   [90m   |[39m          [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 2 |[39m [36mimport[39m axios [36mfrom[39m [32m'axios'[39m[33m;[39m
+   [90m 3 |[39m [36mimport[39m { [33mPersonSchema[39m } [36mfrom[39m [32m'../../../../shared-models/src/lib/person.model'[39m[33m;[39m
+   [90m 4 |[39m[0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m9:48[22m[39m[1m[39m[22m
+[90mTS2339: [39mProperty 'BASE_URL' does not exist on type 'AppService'.
+  [0m [90m  7 |[39m   [36masync[39m getPeople(page[33m:[39m number[33m,[39m filter[33m:[39m string)[33m:[39m [33mPromise[39m[33m<[39m[33many[39m[][33m>[39m {
+   [90m  8 |[39m     [36mtry[39m {
+  [31m[1m>[22m[39m[90m  9 |[39m       [36mconst[39m response [33m=[39m [36mawait[39m axios[33m.[39m[36mget[39m([32m`${this.BASE_URL}?page=${page}`[39m)[33m;[39m
+   [90m    |[39m                                                [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 10 |[39m       [36mconst[39m people [33m=[39m response[33m.[39mdata[33m.[39mresults[33m;[39m
+   [90m 11 |[39m
+   [90m 12 |[39m       [36mconst[39m peopleWithHomeworld [33m=[39m [36mawait[39m [33mPromise[39m[33m.[39mall([0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m61:4[22m[39m[1m[39m[22m
+[90mTS2304: [39mCannot find name 'Frontend'.
+  [0m [90m 59 |[39m   }
+   [90m 60 |[39m }
+  [31m[1m>[22m[39m[90m 61 |[39m [35m2.[39m [33mFrontend[39m [33mSetup[39m [36mwith[39m [33mAngular[39m
+   [90m    |[39m    [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 62 |[39m [33mNow[39m[33m,[39m we need to [36mset[39m up the [33mAngular[39m frontend application[33m.[39m[33mBelow[39m is a simple [33mAngular[39m service and component structure to consume the backend [33mAPI[39m and implement pagination and filtering[33m.[39m
+   [90m 63 |[39m
+   [90m 64 |[39m [33mUpdated[39m [33mAngular[39m [33mFrontend[39m [33mCode[39m[0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m61:13[22m[39m[1m[39m[22m
+[90mTS2552: [39mCannot find name 'Setup'. Did you mean 'Set'?
+  [0m [90m 59 |[39m   }
+   [90m 60 |[39m }
+  [31m[1m>[22m[39m[90m 61 |[39m [35m2.[39m [33mFrontend[39m [33mSetup[39m [36mwith[39m [33mAngular[39m
+   [90m    |[39m             [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 62 |[39m [33mNow[39m[33m,[39m we need to [36mset[39m up the [33mAngular[39m frontend application[33m.[39m[33mBelow[39m is a simple [33mAngular[39m service and component structure to consume the backend [33mAPI[39m and implement pagination and filtering[33m.[39m
+   [90m 63 |[39m
+   [90m 64 |[39m [33mUpdated[39m [33mAngular[39m [33mFrontend[39m [33mCode[39m[0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m61:19[22m[39m[1m[39m[22m
+[90mTS1101: [39m'with' statements are not allowed in strict mode.
+  [0m [90m 59 |[39m   }
+   [90m 60 |[39m }
+  [31m[1m>[22m[39m[90m 61 |[39m [35m2.[39m [33mFrontend[39m [33mSetup[39m [36mwith[39m [33mAngular[39m
+   [90m    |[39m                   [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 62 |[39m [33mNow[39m[33m,[39m we need to [36mset[39m up the [33mAngular[39m frontend application[33m.[39m[33mBelow[39m is a simple [33mAngular[39m service and component structure to consume the backend [33mAPI[39m and implement pagination and filtering[33m.[39m
+   [90m 63 |[39m
+   [90m 64 |[39m [33mUpdated[39m [33mAngular[39m [33mFrontend[39m [33mCode[39m[0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m61:24[22m[39m[1m[39m[22m
+[90mTS2304: [39mCannot find name 'Angular'.
+  [0m [90m 59 |[39m   }
+   [90m 60 |[39m }
+  [31m[1m>[22m[39m[90m 61 |[39m [35m2.[39m [33mFrontend[39m [33mSetup[39m [36mwith[39m [33mAngular[39m
+   [90m    |[39m                        [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 62 |[39m [33mNow[39m[33m,[39m we need to [36mset[39m up the [33mAngular[39m frontend application[33m.[39m[33mBelow[39m is a simple [33mAngular[39m service and component structure to consume the backend [33mAPI[39m and implement pagination and filtering[33m.[39m
+   [90m 63 |[39m
+   [90m 64 |[39m [33mUpdated[39m [33mAngular[39m [33mFrontend[39m [33mCode[39m[0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m62:9[22m[39m[1m[39m[22m
+[90mTS2304: [39mCannot find name 'need'.
+  [0m [90m 60 |[39m }
+   [90m 61 |[39m [35m2.[39m [33mFrontend[39m [33mSetup[39m [36mwith[39m [33mAngular[39m
+  [31m[1m>[22m[39m[90m 62 |[39m [33mNow[39m[33m,[39m we need to [36mset[39m up the [33mAngular[39m frontend application[33m.[39m[33mBelow[39m is a simple [33mAngular[39m service and component structure to consume the backend [33mAPI[39m and implement pagination and filtering[33m.[39m
+   [90m    |[39m         [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 63 |[39m
+   [90m 64 |[39m [33mUpdated[39m [33mAngular[39m [33mFrontend[39m [33mCode[39m
+   [90m 65 |[39m people[33m.[39mservice[33m.[39mts([33mCreate[39m [36mthis[39m service [36min[39m the frontend [33m/[39m src [33m/[39m app [33m/[39m services [33m/[39m directory)[0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m62:14[22m[39m[1m[39m[22m
+[90mTS2304: [39mCannot find name 'to'.
+  [0m [90m 60 |[39m }
+   [90m 61 |[39m [35m2.[39m [33mFrontend[39m [33mSetup[39m [36mwith[39m [33mAngular[39m
+  [31m[1m>[22m[39m[90m 62 |[39m [33mNow[39m[33m,[39m we need to [36mset[39m up the [33mAngular[39m frontend application[33m.[39m[33mBelow[39m is a simple [33mAngular[39m service and component structure to consume the backend [33mAPI[39m and implement pagination and filtering[33m.[39m
+   [90m    |[39m              [31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 63 |[39m
+   [90m 64 |[39m [33mUpdated[39m [33mAngular[39m [33mFrontend[39m [33mCode[39m
+   [90m 65 |[39m people[33m.[39mservice[33m.[39mts([33mCreate[39m [36mthis[39m service [36min[39m the frontend [33m/[39m src [33m/[39m app [33m/[39m services [33m/[39m directory)[0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m62:17[22m[39m[1m[39m[22m
+[90mTS2552: [39mCannot find name 'set'. Did you mean 'Set'?
+  [0m [90m 60 |[39m }
+   [90m 61 |[39m [35m2.[39m [33mFrontend[39m [33mSetup[39m [36mwith[39m [33mAngular[39m
+  [31m[1m>[22m[39m[90m 62 |[39m [33mNow[39m[33m,[39m we need to [36mset[39m up the [33mAngular[39m frontend application[33m.[39m[33mBelow[39m is a simple [33mAngular[39m service and component structure to consume the backend [33mAPI[39m and implement pagination and filtering[33m.[39m
+   [90m    |[39m                 [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 63 |[39m
+   [90m 64 |[39m [33mUpdated[39m [33mAngular[39m [33mFrontend[39m [33mCode[39m
+   [90m 65 |[39m people[33m.[39mservice[33m.[39mts([33mCreate[39m [36mthis[39m service [36min[39m the frontend [33m/[39m src [33m/[39m app [33m/[39m services [33m/[39m directory)[0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m62:21[22m[39m[1m[39m[22m
+[90mTS2304: [39mCannot find name 'up'.
+  [0m [90m 60 |[39m }
+   [90m 61 |[39m [35m2.[39m [33mFrontend[39m [33mSetup[39m [36mwith[39m [33mAngular[39m
+  [31m[1m>[22m[39m[90m 62 |[39m [33mNow[39m[33m,[39m we need to [36mset[39m up the [33mAngular[39m frontend application[33m.[39m[33mBelow[39m is a simple [33mAngular[39m service and component structure to consume the backend [33mAPI[39m and implement pagination and filtering[33m.[39m
+   [90m    |[39m                     [31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 63 |[39m
+   [90m 64 |[39m [33mUpdated[39m [33mAngular[39m [33mFrontend[39m [33mCode[39m
+   [90m 65 |[39m people[33m.[39mservice[33m.[39mts([33mCreate[39m [36mthis[39m service [36min[39m the frontend [33m/[39m src [33m/[39m app [33m/[39m services [33m/[39m directory)[0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m62:24[22m[39m[1m[39m[22m
+[90mTS2304: [39mCannot find name 'the'.
+  [0m [90m 60 |[39m }
+   [90m 61 |[39m [35m2.[39m [33mFrontend[39m [33mSetup[39m [36mwith[39m [33mAngular[39m
+  [31m[1m>[22m[39m[90m 62 |[39m [33mNow[39m[33m,[39m we need to [36mset[39m up the [33mAngular[39m frontend application[33m.[39m[33mBelow[39m is a simple [33mAngular[39m service and component structure to consume the backend [33mAPI[39m and implement pagination and filtering[33m.[39m
+   [90m    |[39m                        [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 63 |[39m
+   [90m 64 |[39m [33mUpdated[39m [33mAngular[39m [33mFrontend[39m [33mCode[39m
+   [90m 65 |[39m people[33m.[39mservice[33m.[39mts([33mCreate[39m [36mthis[39m service [36min[39m the frontend [33m/[39m src [33m/[39m app [33m/[39m services [33m/[39m directory)[0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m62:28[22m[39m[1m[39m[22m
+[90mTS2304: [39mCannot find name 'Angular'.
+  [0m [90m 60 |[39m }
+   [90m 61 |[39m [35m2.[39m [33mFrontend[39m [33mSetup[39m [36mwith[39m [33mAngular[39m
+  [31m[1m>[22m[39m[90m 62 |[39m [33mNow[39m[33m,[39m we need to [36mset[39m up the [33mAngular[39m frontend application[33m.[39m[33mBelow[39m is a simple [33mAngular[39m service and component structure to consume the backend [33mAPI[39m and implement pagination and filtering[33m.[39m
+   [90m    |[39m                            [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 63 |[39m
+   [90m 64 |[39m [33mUpdated[39m [33mAngular[39m [33mFrontend[39m [33mCode[39m
+   [90m 65 |[39m people[33m.[39mservice[33m.[39mts([33mCreate[39m [36mthis[39m service [36min[39m the frontend [33m/[39m src [33m/[39m app [33m/[39m services [33m/[39m directory)[0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m62:36[22m[39m[1m[39m[22m
+[90mTS2304: [39mCannot find name 'frontend'.
+  [0m [90m 60 |[39m }
+   [90m 61 |[39m [35m2.[39m [33mFrontend[39m [33mSetup[39m [36mwith[39m [33mAngular[39m
+  [31m[1m>[22m[39m[90m 62 |[39m [33mNow[39m[33m,[39m we need to [36mset[39m up the [33mAngular[39m frontend application[33m.[39m[33mBelow[39m is a simple [33mAngular[39m service and component structure to consume the backend [33mAPI[39m and implement pagination and filtering[33m.[39m
+   [90m    |[39m                                    [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 63 |[39m
+   [90m 64 |[39m [33mUpdated[39m [33mAngular[39m [33mFrontend[39m [33mCode[39m
+   [90m 65 |[39m people[33m.[39mservice[33m.[39mts([33mCreate[39m [36mthis[39m service [36min[39m the frontend [33m/[39m src [33m/[39m app [33m/[39m services [33m/[39m directory)[0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m62:45[22m[39m[1m[39m[22m
+[90mTS2304: [39mCannot find name 'application'.
+  [0m [90m 60 |[39m }
+   [90m 61 |[39m [35m2.[39m [33mFrontend[39m [33mSetup[39m [36mwith[39m [33mAngular[39m
+  [31m[1m>[22m[39m[90m 62 |[39m [33mNow[39m[33m,[39m we need to [36mset[39m up the [33mAngular[39m frontend application[33m.[39m[33mBelow[39m is a simple [33mAngular[39m service and component structure to consume the backend [33mAPI[39m and implement pagination and filtering[33m.[39m
+   [90m    |[39m                                             [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 63 |[39m
+   [90m 64 |[39m [33mUpdated[39m [33mAngular[39m [33mFrontend[39m [33mCode[39m
+   [90m 65 |[39m people[33m.[39mservice[33m.[39mts([33mCreate[39m [36mthis[39m service [36min[39m the frontend [33m/[39m src [33m/[39m app [33m/[39m services [33m/[39m directory)[0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m62:63[22m[39m[1m[39m[22m
+[90mTS2304: [39mCannot find name 'is'.
+  [0m [90m 60 |[39m }
+   [90m 61 |[39m [35m2.[39m [33mFrontend[39m [33mSetup[39m [36mwith[39m [33mAngular[39m
+  [31m[1m>[22m[39m[90m 62 |[39m [33mNow[39m[33m,[39m we need to [36mset[39m up the [33mAngular[39m frontend application[33m.[39m[33mBelow[39m is a simple [33mAngular[39m service and component structure to consume the backend [33mAPI[39m and implement pagination and filtering[33m.[39m
+   [90m    |[39m                                                               [31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 63 |[39m
+   [90m 64 |[39m [33mUpdated[39m [33mAngular[39m [33mFrontend[39m [33mCode[39m
+   [90m 65 |[39m people[33m.[39mservice[33m.[39mts([33mCreate[39m [36mthis[39m service [36min[39m the frontend [33m/[39m src [33m/[39m app [33m/[39m services [33m/[39m directory)[0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m62:66[22m[39m[1m[39m[22m
+[90mTS2304: [39mCannot find name 'a'.
+  [0m [90m 60 |[39m }
+   [90m 61 |[39m [35m2.[39m [33mFrontend[39m [33mSetup[39m [36mwith[39m [33mAngular[39m
+  [31m[1m>[22m[39m[90m 62 |[39m [33mNow[39m[33m,[39m we need to [36mset[39m up the [33mAngular[39m frontend application[33m.[39m[33mBelow[39m is a simple [33mAngular[39m service and component structure to consume the backend [33mAPI[39m and implement pagination and filtering[33m.[39m
+   [90m    |[39m                                                                  [31m[1m^[22m[39m
+   [90m 63 |[39m
+   [90m 64 |[39m [33mUpdated[39m [33mAngular[39m [33mFrontend[39m [33mCode[39m
+   [90m 65 |[39m people[33m.[39mservice[33m.[39mts([33mCreate[39m [36mthis[39m service [36min[39m the frontend [33m/[39m src [33m/[39m app [33m/[39m services [33m/[39m directory)[0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m62:68[22m[39m[1m[39m[22m
+[90mTS2304: [39mCannot find name 'simple'.
+  [0m [90m 60 |[39m }
+   [90m 61 |[39m [35m2.[39m [33mFrontend[39m [33mSetup[39m [36mwith[39m [33mAngular[39m
+  [31m[1m>[22m[39m[90m 62 |[39m [33mNow[39m[33m,[39m we need to [36mset[39m up the [33mAngular[39m frontend application[33m.[39m[33mBelow[39m is a simple [33mAngular[39m service and component structure to consume the backend [33mAPI[39m and implement pagination and filtering[33m.[39m
+   [90m    |[39m                                                                    [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 63 |[39m
+   [90m 64 |[39m [33mUpdated[39m [33mAngular[39m [33mFrontend[39m [33mCode[39m
+   [90m 65 |[39m people[33m.[39mservice[33m.[39mts([33mCreate[39m [36mthis[39m service [36min[39m the frontend [33m/[39m src [33m/[39m app [33m/[39m services [33m/[39m directory)[0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m62:75[22m[39m[1m[39m[22m
+[90mTS2304: [39mCannot find name 'Angular'.
+  [0m [90m 60 |[39m }
+   [90m 61 |[39m [35m2.[39m [33mFrontend[39m [33mSetup[39m [36mwith[39m [33mAngular[39m
+  [31m[1m>[22m[39m[90m 62 |[39m [33mNow[39m[33m,[39m we need to [36mset[39m up the [33mAngular[39m frontend application[33m.[39m[33mBelow[39m is a simple [33mAngular[39m service and component structure to consume the backend [33mAPI[39m and implement pagination and filtering[33m.[39m
+   [90m    |[39m                                                                           [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 63 |[39m
+   [90m 64 |[39m [33mUpdated[39m [33mAngular[39m [33mFrontend[39m [33mCode[39m
+   [90m 65 |[39m people[33m.[39mservice[33m.[39mts([33mCreate[39m [36mthis[39m service [36min[39m the frontend [33m/[39m src [33m/[39m app [33m/[39m services [33m/[39m directory)[0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m62:83[22m[39m[1m[39m[22m
+[90mTS2304: [39mCannot find name 'service'.
+  [0m [90m 60 |[39m }
+   [90m 61 |[39m [35m2.[39m [33mFrontend[39m [33mSetup[39m [36mwith[39m [33mAngular[39m
+  [31m[1m>[22m[39m[90m 62 |[39m [33mNow[39m[33m,[39m we need to [36mset[39m up the [33mAngular[39m frontend application[33m.[39m[33mBelow[39m is a simple [33mAngular[39m service and component structure to consume the backend [33mAPI[39m and implement pagination and filtering[33m.[39m
+   [90m    |[39m                                                                                   [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 63 |[39m
+   [90m 64 |[39m [33mUpdated[39m [33mAngular[39m [33mFrontend[39m [33mCode[39m
+   [90m 65 |[39m people[33m.[39mservice[33m.[39mts([33mCreate[39m [36mthis[39m service [36min[39m the frontend [33m/[39m src [33m/[39m app [33m/[39m services [33m/[39m directory)[0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m62:91[22m[39m[1m[39m[22m
+[90mTS2304: [39mCannot find name 'and'.
+  [0m [90m 60 |[39m }
+   [90m 61 |[39m [35m2.[39m [33mFrontend[39m [33mSetup[39m [36mwith[39m [33mAngular[39m
+  [31m[1m>[22m[39m[90m 62 |[39m [33mNow[39m[33m,[39m we need to [36mset[39m up the [33mAngular[39m frontend application[33m.[39m[33mBelow[39m is a simple [33mAngular[39m service and component structure to consume the backend [33mAPI[39m and implement pagination and filtering[33m.[39m
+   [90m    |[39m                                                                                           [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 63 |[39m
+   [90m 64 |[39m [33mUpdated[39m [33mAngular[39m [33mFrontend[39m [33mCode[39m
+   [90m 65 |[39m people[33m.[39mservice[33m.[39mts([33mCreate[39m [36mthis[39m service [36min[39m the frontend [33m/[39m src [33m/[39m app [33m/[39m services [33m/[39m directory)[0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m62:95[22m[39m[1m[39m[22m
+[90mTS2304: [39mCannot find name 'component'.
+  [0m [90m 60 |[39m }
+   [90m 61 |[39m [35m2.[39m [33mFrontend[39m [33mSetup[39m [36mwith[39m [33mAngular[39m
+  [31m[1m>[22m[39m[90m 62 |[39m [33mNow[39m[33m,[39m we need to [36mset[39m up the [33mAngular[39m frontend application[33m.[39m[33mBelow[39m is a simple [33mAngular[39m service and component structure to consume the backend [33mAPI[39m and implement pagination and filtering[33m.[39m
+   [90m    |[39m                                                                                               [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 63 |[39m
+   [90m 64 |[39m [33mUpdated[39m [33mAngular[39m [33mFrontend[39m [33mCode[39m
+   [90m 65 |[39m people[33m.[39mservice[33m.[39mts([33mCreate[39m [36mthis[39m service [36min[39m the frontend [33m/[39m src [33m/[39m app [33m/[39m services [33m/[39m directory)[0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m62:105[22m[39m[1m[39m[22m
+[90mTS2304: [39mCannot find name 'structure'.
+  [0m [90m 60 |[39m }
+   [90m 61 |[39m [35m2.[39m [33mFrontend[39m [33mSetup[39m [36mwith[39m [33mAngular[39m
+  [31m[1m>[22m[39m[90m 62 |[39m [33mNow[39m[33m,[39m we need to [36mset[39m up the [33mAngular[39m frontend application[33m.[39m[33mBelow[39m is a simple [33mAngular[39m service and component structure to consume the backend [33mAPI[39m and implement pagination and filtering[33m.[39m
+   [90m    |[39m                                                                                                         [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 63 |[39m
+   [90m 64 |[39m [33mUpdated[39m [33mAngular[39m [33mFrontend[39m [33mCode[39m
+   [90m 65 |[39m people[33m.[39mservice[33m.[39mts([33mCreate[39m [36mthis[39m service [36min[39m the frontend [33m/[39m src [33m/[39m app [33m/[39m services [33m/[39m directory)[0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m62:115[22m[39m[1m[39m[22m
+[90mTS2304: [39mCannot find name 'to'.
+  [0m [90m 60 |[39m }
+   [90m 61 |[39m [35m2.[39m [33mFrontend[39m [33mSetup[39m [36mwith[39m [33mAngular[39m
+  [31m[1m>[22m[39m[90m 62 |[39m [33mNow[39m[33m,[39m we need to [36mset[39m up the [33mAngular[39m frontend application[33m.[39m[33mBelow[39m is a simple [33mAngular[39m service and component structure to consume the backend [33mAPI[39m and implement pagination and filtering[33m.[39m
+   [90m    |[39m                                                                                                                   [31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 63 |[39m
+   [90m 64 |[39m [33mUpdated[39m [33mAngular[39m [33mFrontend[39m [33mCode[39m
+   [90m 65 |[39m people[33m.[39mservice[33m.[39mts([33mCreate[39m [36mthis[39m service [36min[39m the frontend [33m/[39m src [33m/[39m app [33m/[39m services [33m/[39m directory)[0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m62:118[22m[39m[1m[39m[22m
+[90mTS2304: [39mCannot find name 'consume'.
+  [0m [90m 60 |[39m }
+   [90m 61 |[39m [35m2.[39m [33mFrontend[39m [33mSetup[39m [36mwith[39m [33mAngular[39m
+  [31m[1m>[22m[39m[90m 62 |[39m [33mNow[39m[33m,[39m we need to [36mset[39m up the [33mAngular[39m frontend application[33m.[39m[33mBelow[39m is a simple [33mAngular[39m service and component structure to consume the backend [33mAPI[39m and implement pagination and filtering[33m.[39m
+   [90m    |[39m                                                                                                                      [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 63 |[39m
+   [90m 64 |[39m [33mUpdated[39m [33mAngular[39m [33mFrontend[39m [33mCode[39m
+   [90m 65 |[39m people[33m.[39mservice[33m.[39mts([33mCreate[39m [36mthis[39m service [36min[39m the frontend [33m/[39m src [33m/[39m app [33m/[39m services [33m/[39m directory)[0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m62:126[22m[39m[1m[39m[22m
+[90mTS2304: [39mCannot find name 'the'.
+  [0m [90m 60 |[39m }
+   [90m 61 |[39m [35m2.[39m [33mFrontend[39m [33mSetup[39m [36mwith[39m [33mAngular[39m
+  [31m[1m>[22m[39m[90m 62 |[39m [33mNow[39m[33m,[39m we need to [36mset[39m up the [33mAngular[39m frontend application[33m.[39m[33mBelow[39m is a simple [33mAngular[39m service and component structure to consume the backend [33mAPI[39m and implement pagination and filtering[33m.[39m
+   [90m    |[39m                                                                                                                              [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 63 |[39m
+   [90m 64 |[39m [33mUpdated[39m [33mAngular[39m [33mFrontend[39m [33mCode[39m
+   [90m 65 |[39m people[33m.[39mservice[33m.[39mts([33mCreate[39m [36mthis[39m service [36min[39m the frontend [33m/[39m src [33m/[39m app [33m/[39m services [33m/[39m directory)[0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m62:130[22m[39m[1m[39m[22m
+[90mTS2304: [39mCannot find name 'backend'.
+  [0m [90m 60 |[39m }
+   [90m 61 |[39m [35m2.[39m [33mFrontend[39m [33mSetup[39m [36mwith[39m [33mAngular[39m
+  [31m[1m>[22m[39m[90m 62 |[39m [33mNow[39m[33m,[39m we need to [36mset[39m up the [33mAngular[39m frontend application[33m.[39m[33mBelow[39m is a simple [33mAngular[39m service and component structure to consume the backend [33mAPI[39m and implement pagination and filtering[33m.[39m
+   [90m    |[39m                                                                                                                                  [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 63 |[39m
+   [90m 64 |[39m [33mUpdated[39m [33mAngular[39m [33mFrontend[39m [33mCode[39m
+   [90m 65 |[39m people[33m.[39mservice[33m.[39mts([33mCreate[39m [36mthis[39m service [36min[39m the frontend [33m/[39m src [33m/[39m app [33m/[39m services [33m/[39m directory)[0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m62:138[22m[39m[1m[39m[22m
+[90mTS2304: [39mCannot find name 'API'.
+  [0m [90m 60 |[39m }
+   [90m 61 |[39m [35m2.[39m [33mFrontend[39m [33mSetup[39m [36mwith[39m [33mAngular[39m
+  [31m[1m>[22m[39m[90m 62 |[39m [33mNow[39m[33m,[39m we need to [36mset[39m up the [33mAngular[39m frontend application[33m.[39m[33mBelow[39m is a simple [33mAngular[39m service and component structure to consume the backend [33mAPI[39m and implement pagination and filtering[33m.[39m
+   [90m    |[39m                                                                                                                                          [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 63 |[39m
+   [90m 64 |[39m [33mUpdated[39m [33mAngular[39m [33mFrontend[39m [33mCode[39m
+   [90m 65 |[39m people[33m.[39mservice[33m.[39mts([33mCreate[39m [36mthis[39m service [36min[39m the frontend [33m/[39m src [33m/[39m app [33m/[39m services [33m/[39m directory)[0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m62:142[22m[39m[1m[39m[22m
+[90mTS2304: [39mCannot find name 'and'.
+  [0m [90m 60 |[39m }
+   [90m 61 |[39m [35m2.[39m [33mFrontend[39m [33mSetup[39m [36mwith[39m [33mAngular[39m
+  [31m[1m>[22m[39m[90m 62 |[39m [33mNow[39m[33m,[39m we need to [36mset[39m up the [33mAngular[39m frontend application[33m.[39m[33mBelow[39m is a simple [33mAngular[39m service and component structure to consume the backend [33mAPI[39m and implement pagination and filtering[33m.[39m
+   [90m    |[39m                                                                                                                                              [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 63 |[39m
+   [90m 64 |[39m [33mUpdated[39m [33mAngular[39m [33mFrontend[39m [33mCode[39m
+   [90m 65 |[39m people[33m.[39mservice[33m.[39mts([33mCreate[39m [36mthis[39m service [36min[39m the frontend [33m/[39m src [33m/[39m app [33m/[39m services [33m/[39m directory)[0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m62:146[22m[39m[1m[39m[22m
+[90mTS2304: [39mCannot find name 'implement'.
+  [0m [90m 60 |[39m }
+   [90m 61 |[39m [35m2.[39m [33mFrontend[39m [33mSetup[39m [36mwith[39m [33mAngular[39m
+  [31m[1m>[22m[39m[90m 62 |[39m [33mNow[39m[33m,[39m we need to [36mset[39m up the [33mAngular[39m frontend application[33m.[39m[33mBelow[39m is a simple [33mAngular[39m service and component structure to consume the backend [33mAPI[39m and implement pagination and filtering[33m.[39m
+   [90m    |[39m                                                                                                                                                  [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 63 |[39m
+   [90m 64 |[39m [33mUpdated[39m [33mAngular[39m [33mFrontend[39m [33mCode[39m
+   [90m 65 |[39m people[33m.[39mservice[33m.[39mts([33mCreate[39m [36mthis[39m service [36min[39m the frontend [33m/[39m src [33m/[39m app [33m/[39m services [33m/[39m directory)[0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m62:156[22m[39m[1m[39m[22m
+[90mTS2304: [39mCannot find name 'pagination'.
+  [0m [90m 60 |[39m }
+   [90m 61 |[39m [35m2.[39m [33mFrontend[39m [33mSetup[39m [36mwith[39m [33mAngular[39m
+  [31m[1m>[22m[39m[90m 62 |[39m [33mNow[39m[33m,[39m we need to [36mset[39m up the [33mAngular[39m frontend application[33m.[39m[33mBelow[39m is a simple [33mAngular[39m service and component structure to consume the backend [33mAPI[39m and implement pagination and filtering[33m.[39m
+   [90m    |[39m                                                                                                                                                            [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 63 |[39m
+   [90m 64 |[39m [33mUpdated[39m [33mAngular[39m [33mFrontend[39m [33mCode[39m
+   [90m 65 |[39m people[33m.[39mservice[33m.[39mts([33mCreate[39m [36mthis[39m service [36min[39m the frontend [33m/[39m src [33m/[39m app [33m/[39m services [33m/[39m directory)[0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m62:167[22m[39m[1m[39m[22m
+[90mTS2304: [39mCannot find name 'and'.
+  [0m [90m 60 |[39m }
+   [90m 61 |[39m [35m2.[39m [33mFrontend[39m [33mSetup[39m [36mwith[39m [33mAngular[39m
+  [31m[1m>[22m[39m[90m 62 |[39m [33mNow[39m[33m,[39m we need to [36mset[39m up the [33mAngular[39m frontend application[33m.[39m[33mBelow[39m is a simple [33mAngular[39m service and component structure to consume the backend [33mAPI[39m and implement pagination and filtering[33m.[39m
+   [90m    |[39m                                                                                                                                                                       [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 63 |[39m
+   [90m 64 |[39m [33mUpdated[39m [33mAngular[39m [33mFrontend[39m [33mCode[39m
+   [90m 65 |[39m people[33m.[39mservice[33m.[39mts([33mCreate[39m [36mthis[39m service [36min[39m the frontend [33m/[39m src [33m/[39m app [33m/[39m services [33m/[39m directory)[0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m62:171[22m[39m[1m[39m[22m
+[90mTS2304: [39mCannot find name 'filtering'.
+  [0m [90m 60 |[39m }
+   [90m 61 |[39m [35m2.[39m [33mFrontend[39m [33mSetup[39m [36mwith[39m [33mAngular[39m
+  [31m[1m>[22m[39m[90m 62 |[39m [33mNow[39m[33m,[39m we need to [36mset[39m up the [33mAngular[39m frontend application[33m.[39m[33mBelow[39m is a simple [33mAngular[39m service and component structure to consume the backend [33mAPI[39m and implement pagination and filtering[33m.[39m
+   [90m    |[39m                                                                                                                                                                           [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 63 |[39m
+   [90m 64 |[39m [33mUpdated[39m [33mAngular[39m [33mFrontend[39m [33mCode[39m
+   [90m 65 |[39m people[33m.[39mservice[33m.[39mts([33mCreate[39m [36mthis[39m service [36min[39m the frontend [33m/[39m src [33m/[39m app [33m/[39m services [33m/[39m directory)[0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m64:1[22m[39m[1m[39m[22m
+[90mTS2304: [39mCannot find name 'Updated'.
+  [0m [90m 62 |[39m [33mNow[39m[33m,[39m we need to [36mset[39m up the [33mAngular[39m frontend application[33m.[39m[33mBelow[39m is a simple [33mAngular[39m service and component structure to consume the backend [33mAPI[39m and implement pagination and filtering[33m.[39m
+   [90m 63 |[39m
+  [31m[1m>[22m[39m[90m 64 |[39m [33mUpdated[39m [33mAngular[39m [33mFrontend[39m [33mCode[39m
+   [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 65 |[39m people[33m.[39mservice[33m.[39mts([33mCreate[39m [36mthis[39m service [36min[39m the frontend [33m/[39m src [33m/[39m app [33m/[39m services [33m/[39m directory)
+   [90m 66 |[39m
+   [90m 67 |[39m typescript[0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m64:9[22m[39m[1m[39m[22m
+[90mTS2304: [39mCannot find name 'Angular'.
+  [0m [90m 62 |[39m [33mNow[39m[33m,[39m we need to [36mset[39m up the [33mAngular[39m frontend application[33m.[39m[33mBelow[39m is a simple [33mAngular[39m service and component structure to consume the backend [33mAPI[39m and implement pagination and filtering[33m.[39m
+   [90m 63 |[39m
+  [31m[1m>[22m[39m[90m 64 |[39m [33mUpdated[39m [33mAngular[39m [33mFrontend[39m [33mCode[39m
+   [90m    |[39m         [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 65 |[39m people[33m.[39mservice[33m.[39mts([33mCreate[39m [36mthis[39m service [36min[39m the frontend [33m/[39m src [33m/[39m app [33m/[39m services [33m/[39m directory)
+   [90m 66 |[39m
+   [90m 67 |[39m typescript[0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m64:17[22m[39m[1m[39m[22m
+[90mTS2304: [39mCannot find name 'Frontend'.
+  [0m [90m 62 |[39m [33mNow[39m[33m,[39m we need to [36mset[39m up the [33mAngular[39m frontend application[33m.[39m[33mBelow[39m is a simple [33mAngular[39m service and component structure to consume the backend [33mAPI[39m and implement pagination and filtering[33m.[39m
+   [90m 63 |[39m
+  [31m[1m>[22m[39m[90m 64 |[39m [33mUpdated[39m [33mAngular[39m [33mFrontend[39m [33mCode[39m
+   [90m    |[39m                 [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 65 |[39m people[33m.[39mservice[33m.[39mts([33mCreate[39m [36mthis[39m service [36min[39m the frontend [33m/[39m src [33m/[39m app [33m/[39m services [33m/[39m directory)
+   [90m 66 |[39m
+   [90m 67 |[39m typescript[0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m64:26[22m[39m[1m[39m[22m
+[90mTS2304: [39mCannot find name 'Code'.
+  [0m [90m 62 |[39m [33mNow[39m[33m,[39m we need to [36mset[39m up the [33mAngular[39m frontend application[33m.[39m[33mBelow[39m is a simple [33mAngular[39m service and component structure to consume the backend [33mAPI[39m and implement pagination and filtering[33m.[39m
+   [90m 63 |[39m
+  [31m[1m>[22m[39m[90m 64 |[39m [33mUpdated[39m [33mAngular[39m [33mFrontend[39m [33mCode[39m
+   [90m    |[39m                          [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 65 |[39m people[33m.[39mservice[33m.[39mts([33mCreate[39m [36mthis[39m service [36min[39m the frontend [33m/[39m src [33m/[39m app [33m/[39m services [33m/[39m directory)
+   [90m 66 |[39m
+   [90m 67 |[39m typescript[0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m65:1[22m[39m[1m[39m[22m
+[90mTS2304: [39mCannot find name 'people'.
+  [0m [90m 63 |[39m
+   [90m 64 |[39m [33mUpdated[39m [33mAngular[39m [33mFrontend[39m [33mCode[39m
+  [31m[1m>[22m[39m[90m 65 |[39m people[33m.[39mservice[33m.[39mts([33mCreate[39m [36mthis[39m service [36min[39m the frontend [33m/[39m src [33m/[39m app [33m/[39m services [33m/[39m directory)
+   [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 66 |[39m
+   [90m 67 |[39m typescript
+   [90m 68 |[39m [33mCopiar[39m código[0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m65:19[22m[39m[1m[39m[22m
+[90mTS2304: [39mCannot find name 'Create'.
+  [0m [90m 63 |[39m
+   [90m 64 |[39m [33mUpdated[39m [33mAngular[39m [33mFrontend[39m [33mCode[39m
+  [31m[1m>[22m[39m[90m 65 |[39m people[33m.[39mservice[33m.[39mts([33mCreate[39m [36mthis[39m service [36min[39m the frontend [33m/[39m src [33m/[39m app [33m/[39m services [33m/[39m directory)
+   [90m    |[39m                   [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 66 |[39m
+   [90m 67 |[39m typescript
+   [90m 68 |[39m [33mCopiar[39m código[0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m65:31[22m[39m[1m[39m[22m
+[90mTS2304: [39mCannot find name 'service'.
+  [0m [90m 63 |[39m
+   [90m 64 |[39m [33mUpdated[39m [33mAngular[39m [33mFrontend[39m [33mCode[39m
+  [31m[1m>[22m[39m[90m 65 |[39m people[33m.[39mservice[33m.[39mts([33mCreate[39m [36mthis[39m service [36min[39m the frontend [33m/[39m src [33m/[39m app [33m/[39m services [33m/[39m directory)
+   [90m    |[39m                               [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 66 |[39m
+   [90m 67 |[39m typescript
+   [90m 68 |[39m [33mCopiar[39m código[0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m65:42[22m[39m[1m[39m[22m
+[90mTS2304: [39mCannot find name 'the'.
+  [0m [90m 63 |[39m
+   [90m 64 |[39m [33mUpdated[39m [33mAngular[39m [33mFrontend[39m [33mCode[39m
+  [31m[1m>[22m[39m[90m 65 |[39m people[33m.[39mservice[33m.[39mts([33mCreate[39m [36mthis[39m service [36min[39m the frontend [33m/[39m src [33m/[39m app [33m/[39m services [33m/[39m directory)
+   [90m    |[39m                                          [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 66 |[39m
+   [90m 67 |[39m typescript
+   [90m 68 |[39m [33mCopiar[39m código[0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m65:46[22m[39m[1m[39m[22m
+[90mTS2304: [39mCannot find name 'frontend'.
+  [0m [90m 63 |[39m
+   [90m 64 |[39m [33mUpdated[39m [33mAngular[39m [33mFrontend[39m [33mCode[39m
+  [31m[1m>[22m[39m[90m 65 |[39m people[33m.[39mservice[33m.[39mts([33mCreate[39m [36mthis[39m service [36min[39m the frontend [33m/[39m src [33m/[39m app [33m/[39m services [33m/[39m directory)
+   [90m    |[39m                                              [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 66 |[39m
+   [90m 67 |[39m typescript
+   [90m 68 |[39m [33mCopiar[39m código[0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m65:57[22m[39m[1m[39m[22m
+[90mTS2304: [39mCannot find name 'src'.
+  [0m [90m 63 |[39m
+   [90m 64 |[39m [33mUpdated[39m [33mAngular[39m [33mFrontend[39m [33mCode[39m
+  [31m[1m>[22m[39m[90m 65 |[39m people[33m.[39mservice[33m.[39mts([33mCreate[39m [36mthis[39m service [36min[39m the frontend [33m/[39m src [33m/[39m app [33m/[39m services [33m/[39m directory)
+   [90m    |[39m                                                         [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 66 |[39m
+   [90m 67 |[39m typescript
+   [90m 68 |[39m [33mCopiar[39m código[0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m65:63[22m[39m[1m[39m[22m
+[90mTS2304: [39mCannot find name 'app'.
+  [0m [90m 63 |[39m
+   [90m 64 |[39m [33mUpdated[39m [33mAngular[39m [33mFrontend[39m [33mCode[39m
+  [31m[1m>[22m[39m[90m 65 |[39m people[33m.[39mservice[33m.[39mts([33mCreate[39m [36mthis[39m service [36min[39m the frontend [33m/[39m src [33m/[39m app [33m/[39m services [33m/[39m directory)
+   [90m    |[39m                                                               [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 66 |[39m
+   [90m 67 |[39m typescript
+   [90m 68 |[39m [33mCopiar[39m código[0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m65:69[22m[39m[1m[39m[22m
+[90mTS2304: [39mCannot find name 'services'.
+  [0m [90m 63 |[39m
+   [90m 64 |[39m [33mUpdated[39m [33mAngular[39m [33mFrontend[39m [33mCode[39m
+  [31m[1m>[22m[39m[90m 65 |[39m people[33m.[39mservice[33m.[39mts([33mCreate[39m [36mthis[39m service [36min[39m the frontend [33m/[39m src [33m/[39m app [33m/[39m services [33m/[39m directory)
+   [90m    |[39m                                                                     [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 66 |[39m
+   [90m 67 |[39m typescript
+   [90m 68 |[39m [33mCopiar[39m código[0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m65:80[22m[39m[1m[39m[22m
+[90mTS2304: [39mCannot find name 'directory'.
+  [0m [90m 63 |[39m
+   [90m 64 |[39m [33mUpdated[39m [33mAngular[39m [33mFrontend[39m [33mCode[39m
+  [31m[1m>[22m[39m[90m 65 |[39m people[33m.[39mservice[33m.[39mts([33mCreate[39m [36mthis[39m service [36min[39m the frontend [33m/[39m src [33m/[39m app [33m/[39m services [33m/[39m directory)
+   [90m    |[39m                                                                                [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 66 |[39m
+   [90m 67 |[39m typescript
+   [90m 68 |[39m [33mCopiar[39m código[0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m67:1[22m[39m[1m[39m[22m
+[90mTS2304: [39mCannot find name 'typescript'.
+  [0m [90m 65 |[39m people[33m.[39mservice[33m.[39mts([33mCreate[39m [36mthis[39m service [36min[39m the frontend [33m/[39m src [33m/[39m app [33m/[39m services [33m/[39m directory)
+   [90m 66 |[39m
+  [31m[1m>[22m[39m[90m 67 |[39m typescript
+   [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 68 |[39m [33mCopiar[39m código
+   [90m 69 |[39m [36mimport[39m { [33mInjectable[39m } [36mfrom[39m [32m'@angular/core'[39m[33m;[39m
+   [90m 70 |[39m [36mimport[39m { [33mHttpClient[39m } [36mfrom[39m [32m'@angular/common/http'[39m[33m;[39m[0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m68:1[22m[39m[1m[39m[22m
+[90mTS2304: [39mCannot find name 'Copiar'.
+  [0m [90m 66 |[39m
+   [90m 67 |[39m typescript
+  [31m[1m>[22m[39m[90m 68 |[39m [33mCopiar[39m código
+   [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 69 |[39m [36mimport[39m { [33mInjectable[39m } [36mfrom[39m [32m'@angular/core'[39m[33m;[39m
+   [90m 70 |[39m [36mimport[39m { [33mHttpClient[39m } [36mfrom[39m [32m'@angular/common/http'[39m[33m;[39m
+   [90m 71 |[39m [36mimport[39m { [33mObservable[39m } [36mfrom[39m [32m'rxjs'[39m[33m;[39m[0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m68:8[22m[39m[1m[39m[22m
+[90mTS2304: [39mCannot find name 'código'.
+  [0m [90m 66 |[39m
+   [90m 67 |[39m typescript
+  [31m[1m>[22m[39m[90m 68 |[39m [33mCopiar[39m código
+   [90m    |[39m        [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 69 |[39m [36mimport[39m { [33mInjectable[39m } [36mfrom[39m [32m'@angular/core'[39m[33m;[39m
+   [90m 70 |[39m [36mimport[39m { [33mHttpClient[39m } [36mfrom[39m [32m'@angular/common/http'[39m[33m;[39m
+   [90m 71 |[39m [36mimport[39m { [33mObservable[39m } [36mfrom[39m [32m'rxjs'[39m[33m;[39m[0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m69:10[22m[39m[1m[39m[22m
+[90mTS2300: [39mDuplicate identifier 'Injectable'.
+  [0m [90m 67 |[39m typescript
+   [90m 68 |[39m [33mCopiar[39m código
+  [31m[1m>[22m[39m[90m 69 |[39m [36mimport[39m { [33mInjectable[39m } [36mfrom[39m [32m'@angular/core'[39m[33m;[39m
+   [90m    |[39m          [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 70 |[39m [36mimport[39m { [33mHttpClient[39m } [36mfrom[39m [32m'@angular/common/http'[39m[33m;[39m
+   [90m 71 |[39m [36mimport[39m { [33mObservable[39m } [36mfrom[39m [32m'rxjs'[39m[33m;[39m
+   [90m 72 |[39m [36mimport[39m { [33mPerson[39m } [36mfrom[39m [32m'@memberspot-challenge/shared-models'[39m[33m;[39m[0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m72:10[22m[39m[1m[39m[22m
+[90mTS2305: [39mModule '"@memberspot-challenge/shared-models"' has no exported member 'Person'.
+  [0m [90m 70 |[39m [36mimport[39m { [33mHttpClient[39m } [36mfrom[39m [32m'@angular/common/http'[39m[33m;[39m
+   [90m 71 |[39m [36mimport[39m { [33mObservable[39m } [36mfrom[39m [32m'rxjs'[39m[33m;[39m
+  [31m[1m>[22m[39m[90m 72 |[39m [36mimport[39m { [33mPerson[39m } [36mfrom[39m [32m'@memberspot-challenge/shared-models'[39m[33m;[39m
+   [90m    |[39m          [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 73 |[39m
+   [90m 74 |[39m [33m@[39m[33mInjectable[39m({
+   [90m 75 |[39m   providedIn[33m:[39m [32m'root'[39m[33m,[39m[0m
+
+[1m[31mERROR[39m[22m in [1m./src/app/app.service.ts:[32m[1m75:3[22m[39m[1m[39m[22m
+[90mTS2353: [39mObject literal may only specify known properties, and 'providedIn' does not exist in type 'ScopeOptions'.
+  [0m [90m 73 |[39m
+   [90m 74 |[39m [33m@[39m[33mInjectable[39m({
+  [31m[1m>[22m[39m[90m 75 |[39m   providedIn[33m:[39m [32m'root'[39m[33m,[39m
+   [90m    |[39m   [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 76 |[39m })
+   [90m 77 |[39m [36mexport[39m [36mclass[39m [33mPeopleService[39m {
+   [90m 78 |[39m   [36mprivate[39m apiUrl [33m=[39m [32m'http://localhost:3000/api/people'[39m[33m;[39m[0m
+
+webpack compiled with [1m[31m88 errors[39m[22m (514cec1fc9171f19)

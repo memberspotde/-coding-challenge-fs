@@ -1,0 +1,1 @@
+{"version":3,"file":"person.model.js","sourceRoot":"","sources":["../../../../shared-models/src/lib/person.model.ts"],"names":[],"mappings":";;;AAAA,6BAAwB;AAExB,yDAAyD;AAC5C,QAAA,YAAY,GAAG,OAAC,CAAC,MAAM,CAAC;IACjC,IAAI,EAAE,OAAC,CAAC,MAAM,EAAE;IAChB,UAAU,EAAE,OAAC,CAAC,MAAM,EAAE;IACtB,SAAS,EAAE,OAAC,CAAC,MAAM,EAAE;IACrB,iBAAiB,EAAE,OAAC,CAAC,MAAM,EAAE;CAChC,CAAC,CAAC"}

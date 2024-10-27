@@ -1,0 +1,66 @@
+
+[0m[7m[1m[36m NX [39m[22m[27m[0m  [36mRunning target [1mbuild[22m for project server and [1m1[22m task it depends on:[39m
+
+
+
+[2m> [22m[2mnx run[22m shared-models:build  [2m[existing outputs match the cache, left as is][22m
+
+
+[2m> [22m[2mnx run[22m server:build  [2m[existing outputs match the cache, left as is][22m
+
+[2m> [22mwebpack-cli build --node-env=production
+
+chunk (runtime: main) [1m[32mmain.js[39m[22m (main) 4.96 KiB [1m[33m[entry][39m[22m [1m[32m[rendered][39m[22m
+webpack compiled [1m[32msuccessfully[39m[22m (982b950c8f201409)
+
+
+
+[0m[7m[1m[32m NX [39m[22m[27m[0m  [32mSuccessfully ran target [1mbuild[22m for project server and [1m1[22m task it depends on[39m
+
+[2mNx read the output from the cache instead of running the command for 2 out of 2 tasks.[22m
+
+[1m[31mDebugger listening on ws://localhost:9229/a5f9fac6-529a-4696-b0ab-4311f63f487b[39m[22m
+[1m[31mDebugger listening on ws://localhost:9229/a5f9fac6-529a-4696-b0ab-4311f63f487b[39m[22m
+[1m[31mFor help, see: https://nodejs.org/en/docs/inspector[39m[22m
+[1m[31m[39m[22m
+[32m[Nest] 11320  - [39m26.10.2024, 14:06:15 [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+[32m[Nest] 11320  - [39m26.10.2024, 14:06:15 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mAppModule dependencies initialized[39m[38;5;3m +18ms[39m
+[32m[Nest] 11320  - [39m26.10.2024, 14:06:15 [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mAppController {/api/people}:[39m[38;5;3m +6ms[39m
+[32m[Nest] 11320  - [39m26.10.2024, 14:06:15 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/people, GET} route[39m[38;5;3m +4ms[39m
+[32m[Nest] 11320  - [39m26.10.2024, 14:06:15 [32m    LOG[39m [38;5;3m[NestApplication] [39m[32mNest application successfully started[39m[38;5;3m +6ms[39m
+[32m[Nest] 11320  - [39m26.10.2024, 14:06:15 [32m    LOG[39m [32m🚀 Application is running on: http://localhost:3000/[39m
+
+[7m[1m[36m NX [39m[22m[27m [1mFile change detected. Restarting...[22m
+
+
+[0m[7m[1m[36m NX [39m[22m[27m[0m  [36mRunning target [1mbuild[22m for project server and [1m1[22m task it depends on:[39m
+
+
+
+[2m> [22m[2mnx run[22m shared-models:build  [2m[existing outputs match the cache, left as is][22m
+
+
+[2m> [22m[2mnx run[22m server:build
+
+[2m> [22mwebpack-cli build --node-env=production
+
+chunk (runtime: main) [1m[32mmain.js[39m[22m (main) 4.99 KiB [1m[33m[entry][39m[22m [1m[32m[rendered][39m[22m
+webpack compiled [1m[32msuccessfully[39m[22m (e558086e49a96982)
+
+
+
+[0m[7m[1m[32m NX [39m[22m[27m[0m  [32mSuccessfully ran target [1mbuild[22m for project server and [1m1[22m task it depends on[39m
+
+[2mNx read the output from the cache instead of running the command for 1 out of 2 tasks.[22m
+
+[1m[31mDebugger listening on ws://localhost:9229/571fd9eb-5eb0-40dd-aa31-bfaaadd1448f[39m[22m
+[1m[31mDebugger listening on ws://localhost:9229/571fd9eb-5eb0-40dd-aa31-bfaaadd1448f[39m[22m
+[1m[31mFor help, see: https://nodejs.org/en/docs/inspector[39m[22m
+[1m[31m[39m[22m
+[32m[Nest] 7460  - [39m26.10.2024, 14:10:31 [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+[32m[Nest] 7460  - [39m26.10.2024, 14:10:31 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mAppModule dependencies initialized[39m[38;5;3m +53ms[39m
+[32m[Nest] 7460  - [39m26.10.2024, 14:10:31 [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mAppController {/api/people}:[39m[38;5;3m +23ms[39m
+[32m[Nest] 7460  - [39m26.10.2024, 14:10:31 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/people, GET} route[39m[38;5;3m +15ms[39m
+[32m[Nest] 7460  - [39m26.10.2024, 14:10:31 [32m    LOG[39m [38;5;3m[NestApplication] [39m[32mNest application successfully started[39m[38;5;3m +3ms[39m
+[32m[Nest] 7460  - [39m26.10.2024, 14:10:31 [32m    LOG[39m [32m🚀 Application is running on: http://localhost:3000/[39m
+[1m[31mWatch error: Daemon closed the connection[39m[22m
